@@ -1,0 +1,7 @@
+# architecture generalisation of the key comparison (5 seeds, LOCO)
+loco fixed_max resnet18 none
+loco fixed_max+track_nf6 resnet18 none
+loco fixed_max mobilenetv2 none
+loco fixed_max+track_nf6 mobilenetv2 none
+loco track_nf6 resnet18 none
+loco track_nf6 mobilenetv2 none

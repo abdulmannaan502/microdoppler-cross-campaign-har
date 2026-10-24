@@ -1,0 +1,11 @@
+[pilot_loco_fixed_max_generic] seed 0  1 December 2017 Dataset: F1 src 0.957 ada 0.957 (val 0.938, ep 37, 73s)
+[pilot_loco_fixed_max_generic] seed 0     2 March 2017 Dataset: F1 src 0.926 ada 0.924 (val 0.937, ep 29, 88s)
+[pilot_loco_fixed_max_generic] seed 0      3 June 2017 Dataset: F1 src 0.963 ada 0.925 (val 0.925, ep 39, 83s)
+[pilot_loco_fixed_max_generic] seed 0      4 July 2018 Dataset: F1 src 0.950 ada 0.958 (val 0.946, ep 28, 77s)
+[pilot_loco_fixed_max_generic] seed 0 5 February 2019 UoG Dataset: F1 src 0.896 ada 0.937 (val 0.966, ep 20, 76s)
+[pilot_loco_fixed_max_generic] seed 0 6 February 2019 NG Homes Dataset: F1 src 0.865 ada 0.873 (val 0.969, ep 33, 74s)
+[pilot_loco_fixed_max_generic] seed 0 7 March 2019 West Cumbria Dataset: F1 src 0.863 ada 0.847 (val 0.969, ep 22, 70s)
+          acc  macro_f1       ece
+bn                               
+ada  0.917242  0.917070  0.056823
+src  0.916228  0.917089  0.054711

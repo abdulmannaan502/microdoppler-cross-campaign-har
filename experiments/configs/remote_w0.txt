@@ -1,0 +1,6 @@
+# worker 0 (heavy CNNs, priority order)
+loco fixed_max resnet18 none
+loco fixed_max+track_nf6 resnet18 none
+loco fixed_max resnet18in none
+loco fixed_max+track_nf6 resnet18in none
+loco track_nf6 resnet18 none

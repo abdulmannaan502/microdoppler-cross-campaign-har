@@ -1,0 +1,142 @@
+[
+ [
+  2023,
+  96,
+  "A Survey on Radar-Based Continuous Human Activity Recognition",
+  "IEEE Journal of Microwaves",
+  "10.1109/jmw.2023.3264494"
+ ],
+ [
+  2026,
+  0,
+  "Efficient Radar-Based Human Activity Recognition with Spatiotemporal Factorization and Voxel-Level Augmentation",
+  "KSII Transactions on Internet and Information Systems",
+  "10.3837/tiis.2026.09.005"
+ ],
+ [
+  2020,
+  159,
+  "Sensing Technology for Human Activity Recognition: A Comprehensive Survey",
+  "IEEE Access",
+  "10.1109/access.2020.2991891"
+ ],
+ [
+  2010,
+  5,
+  "Human cardiopulmonary recognition using close-range Doppler radar",
+  "ScholarSpace (University of Hawaii at Manoa)",
+  ""
+ ],
+ [
+  2024,
+  153,
+  "Robust human locomotion and localization activity recognition over multisensory",
+  "Frontiers in Physiology",
+  "10.3389/fphys.2024.1344887"
+ ],
+ [
+  2024,
+  98,
+  "A Comprehensive Survey on Deep Learning Methods in Human Activity Recognition",
+  "Machine Learning and Knowledge Extraction",
+  "10.3390/make6020040"
+ ],
+ [
+  2024,
+  5,
+  "Cross-Modal Supervised Human Body Pose Recognition Techniques for Through-Wall Radar",
+  "Sensors",
+  "10.3390/s24072207"
+ ],
+ [
+  2024,
+  6,
+  "Spatial Calibration of Millimeter-Wave Radar for Close-Range Object Location",
+  "IEEE Sensors Journal",
+  "10.1109/jsen.2024.3393030"
+ ],
+ [
+  2023,
+  36,
+  "Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud",
+  "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+  "10.1145/3580779"
+ ],
+ [
+  2021,
+  29,
+  "Concealed Object Detection and Recognition System Based on Millimeter Wave FMCW Radar",
+  "Applied Sciences",
+  "10.3390/app11198926"
+ ],
+ [
+  2019,
+  2,
+  "Human Activity Recognition using Channel State Information",
+  "Research Repository (Delft University of Technology)",
+  ""
+ ],
+ [
+  2019,
+  110,
+  "Multi-Sensor Fusion for Activity Recognition\u2014A Survey",
+  "Sensors",
+  "10.3390/s19173808"
+ ],
+ [
+  2014,
+  53,
+  "Time-Lapse Imaging of Human Heart Motion With Switched Array UWB Radar",
+  "IEEE Transactions on Biomedical Circuits and Systems",
+  "10.1109/tbcas.2014.2359995"
+ ],
+ [
+  2019,
+  176,
+  "The Global High Frequency Radar Network",
+  "Frontiers in Marine Science",
+  "10.3389/fmars.2019.00164"
+ ],
+ [
+  2026,
+  0,
+  "Human activity recognition using LoRa system and artificial intelligence",
+  "Brno University of Technology Digital Library (Brno University of Technology)",
+  ""
+ ],
+ [
+  2024,
+  60,
+  "IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition",
+  "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+  "10.1145/3678545"
+ ],
+ [
+  2021,
+  1106,
+  "Enabling Joint Communication and Radar Sensing in Mobile Networks\u2014A Survey",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2021.3122519"
+ ],
+ [
+  2026,
+  0,
+  "Calibration, Architecture, and Distribution Shift in Predictive Uncertainty Estimation",
+  "Machine Learning and Knowledge Extraction",
+  "10.3390/make8070179"
+ ],
+ [
+  2026,
+  0,
+  "Investigating radar-to-depth cross-sensor gait recognition via GANs",
+  "Repository KITopen (Karlsruhe Institute of Technology)",
+  "10.5445/ir/1000192182"
+ ],
+ [
+  2019,
+  0,
+  "Common Mid Point (CMP) surveying for depth calibration of ground penetrating radar data",
+  "Ty\u00f6v\u00e4entutkimus Vuosikirja",
+  ""
+ ]
+]

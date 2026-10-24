@@ -1,0 +1,142 @@
+[
+ [
+  2024,
+  1,
+  "Real-Time Lightweight Deep Learning Models for Human Activity Recognition Using FMCW Radar",
+  null,
+  "10.36227/techrxiv.171924983.35313177/v1"
+ ],
+ [
+  2024,
+  0,
+  "Real-Time Lightweight Deep Learning Models for Human Activity Recognition Using FMCW Radar",
+  null,
+  "10.36227/techrxiv.171863471.16144237/v1"
+ ],
+ [
+  2024,
+  0,
+  "Micro-Doppler based Human Activity Recognition using ABOA based Dual Spatial Convolution with Gated Recurrent Unit",
+  "Journal of Machine and Computing",
+  "10.53759/7669/jmc202404042"
+ ],
+ [
+  2023,
+  45,
+  "Radar Human Activity Recognition with an Attention-Based Deep Learning Network",
+  "Sensors",
+  "10.3390/s23063185"
+ ],
+ [
+  2023,
+  8,
+  "A holistic human activity recognition optimisation using AI techniques",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12474"
+ ],
+ [
+  2022,
+  35,
+  "Data portability for activities of daily living and fall detection in different environments using radar micro-doppler",
+  "Neural Computing and Applications",
+  "10.1007/s00521-022-06886-2"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924.v1"
+ ],
+ [
+  2025,
+  28,
+  "Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition",
+  "Sensors",
+  "10.3390/s25030724"
+ ],
+ [
+  2023,
+  36,
+  "Human Activity Recognition Method Based on FMCW Radar Sensor with Multi-Domain Feature Attention Fusion Network",
+  "Sensors",
+  "10.3390/s23115100"
+ ],
+ [
+  2023,
+  51,
+  "Radar-based human activity recognition with adaptive thresholding towards resource constrained platforms",
+  "Scientific Reports",
+  "10.1038/s41598-023-30631-x"
+ ],
+ [
+  2026,
+  0,
+  "Enhancing FMCW Radar-Based Human Activity Recognition using DI-ResNet",
+  "REV Journal on Electronics and Communications",
+  "10.21553/rev-jec.433"
+ ],
+ [
+  2024,
+  0,
+  "Evaluating Radar Signal Preprocessing Techniques for Improved Transfer Learning in Human Activity Recognition",
+  "SSRN Electronic Journal",
+  "10.2139/ssrn.5059706"
+ ],
+ [
+  2023,
+  21,
+  "A Comparative Study on Recent Progress of Machine Learning-Based Human Activity Recognition with Radar",
+  "Applied Sciences",
+  "10.3390/app132312728"
+ ],
+ [
+  2026,
+  0,
+  "Benchmarking Radar Preprocessing Techniques and Transfer Learning Models for FMCW-based Human Activity Recognition",
+  "Pervasive and Mobile Computing",
+  "10.1016/j.pmcj.2026.102198"
+ ],
+ [
+  2021,
+  61,
+  "Human Presence Sensing and Gesture Recognition for Smart Home Applications With Moving and Stationary Clutter Suppression Using a 60-GHz Digital Beamforming FMCW Radar",
+  "IEEE Access",
+  "10.1109/access.2021.3080655"
+ ],
+ [
+  2023,
+  17,
+  "Radar\u2010based human activity recognition using denoising techniques to enhance classification accuracy",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12501"
+ ],
+ [
+  2021,
+  12,
+  "Simulation framework for activity recognition and benchmarking in different radar geometries",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12049"
+ ],
+ [
+  2024,
+  15,
+  "FMCW Radar Human Action Recognition Based on Asymmetric Convolutional Residual Blocks",
+  "Sensors",
+  "10.3390/s24144570"
+ ],
+ [
+  2025,
+  2,
+  "Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-Based Human Activity Recognition",
+  "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+  "10.1109/wacv61041.2025.00548"
+ ]
+]

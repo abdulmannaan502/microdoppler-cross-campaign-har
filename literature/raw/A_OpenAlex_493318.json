@@ -1,0 +1,142 @@
+[
+ [
+  2021,
+  103,
+  "Semisupervised Human Activity Recognition With Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Geoscience and Remote Sensing",
+  "10.1109/tgrs.2021.3090106"
+ ],
+ [
+  2020,
+  14,
+  "Unsupervised Domain Adaptation for Human Activity Recognition in Radar",
+  "Proceedings of the IEEE National Radar Conference",
+  "10.1109/radarconf2043947.2020.9266433"
+ ],
+ [
+  2021,
+  2,
+  "Few-shot Human Activity Recognition with Radar Micro-Doppler Spectrograms",
+  "CIE International Conference on Radar (RADAR)",
+  "10.1109/radar53847.2021.10028058"
+ ],
+ [
+  2019,
+  290,
+  "A Survey of Deep Learning-Based Human Activity Recognition in Radar",
+  "Remote Sensing",
+  "10.3390/rs11091068"
+ ],
+ [
+  2025,
+  0,
+  "Radar-Based Cross-Environment Unsupervised Domain Adaptation for Human Activity Recognition",
+  "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+  "10.1109/bibm66473.2025.11356872"
+ ],
+ [
+  2020,
+  0,
+  "Human Activity Recognition by L1-Norm Linear Discriminant Analysis of Radar Micro-Doppler Signatures",
+  "TUScholarShare (Temple University)",
+  ""
+ ],
+ [
+  2021,
+  118,
+  "Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition",
+  "CHI Conference on Human Factors in Computing Systems",
+  "10.1145/3411764.3445138"
+ ],
+ [
+  2025,
+  8,
+  "SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity Recognition",
+  "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "10.1109/icassp49660.2025.10888271"
+ ],
+ [
+  2020,
+  110,
+  "Motion Classification Using Kinematically Sifted ACGAN-Synthesized Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2020.2969579"
+ ],
+ [
+  2020,
+  39,
+  "Improving Classification Accuracy of Hand Gesture Recognition Based on 60 GHz FMCW Radar with Deep Learning Domain Adaptation",
+  "Electronics",
+  "10.3390/electronics9122140"
+ ],
+ [
+  2010,
+  66,
+  "A Human Gait Classification Method Based on Radar Doppler Spectrograms",
+  "EURASIP Journal on Advances in Signal Processing",
+  "10.1155/2010/389716"
+ ],
+ [
+  2023,
+  90,
+  "Machine Learning for Healthcare Radars: Recent Progresses in Human Vital Sign Measurement and Activity Recognition",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2023.3334269"
+ ],
+ [
+  2025,
+  5,
+  "Micro-Doppler radar deception and camouflage of airborne targets",
+  "Scientific Reports",
+  "10.1038/s41598-025-30442-2"
+ ],
+ [
+  2025,
+  28,
+  "Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition",
+  "Sensors",
+  "10.3390/s25030724"
+ ],
+ [
+  2025,
+  7,
+  "Research on Cross-Scene Human Activity Recognition Based on Radar and Wi-Fi Multimodal Fusion",
+  "Electronics",
+  "10.3390/electronics14081518"
+ ],
+ [
+  2025,
+  11,
+  "RadSpecFusion: Dynamic attention weighting for multi-radar human activity recognition",
+  "Internet of Things",
+  "10.1016/j.iot.2025.101682"
+ ],
+ [
+  2023,
+  2,
+  "Advanced Human Activity Recognition through Data Augmentation and Feature Concatenation of Micro-Doppler Signatures",
+  "International journal of electrical and computer engineering systems",
+  "10.32985/ijeces.14.8.7"
+ ],
+ [
+  2023,
+  10,
+  "Deep Learning Techniques for Radar-Based Continuous Human Activity Recognition",
+  "Machine Learning and Knowledge Extraction",
+  "10.3390/make5040075"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924.v1"
+ ],
+ [
+  2023,
+  28,
+  "Denoising UWB Radar Data for Human Activity Recognition Using Convolutional Autoencoders",
+  "IEEE Access",
+  "10.1109/access.2023.3300224"
+ ]
+]

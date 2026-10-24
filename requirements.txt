@@ -1,0 +1,13 @@
+# Python 3.12; PyTorch CUDA 12.4 wheels from https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+joblib==1.6.0
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.0
+py7zr==1.1.4
+pytest==9.1.1
+PyYAML==6.0.3
+scikit-learn==1.9.1
+scipy==1.18.1
+tabulate==0.10.0

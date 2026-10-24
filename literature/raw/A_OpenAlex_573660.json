@@ -1,0 +1,142 @@
+[
+ [
+  2025,
+  0,
+  "Radar-Based Cross-Environment Unsupervised Domain Adaptation for Human Activity Recognition",
+  "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+  "10.1109/bibm66473.2025.11356872"
+ ],
+ [
+  2019,
+  290,
+  "A Survey of Deep Learning-Based Human Activity Recognition in Radar",
+  "Remote Sensing",
+  "10.3390/rs11091068"
+ ],
+ [
+  2025,
+  11,
+  "RadSpecFusion: Dynamic attention weighting for multi-radar human activity recognition",
+  "Internet of Things",
+  "10.1016/j.iot.2025.101682"
+ ],
+ [
+  2023,
+  52,
+  "A lightweight hybrid vision transformer network for radar-based human activity recognition",
+  "Scientific Reports",
+  "10.1038/s41598-023-45149-5"
+ ],
+ [
+  2026,
+  0,
+  "mmWave-CSARNet: Continuous human activity recognition with cross-attentive boundary-frame fusion in mmWave radar",
+  "Pattern Recognition",
+  "10.1016/j.patcog.2026.113830"
+ ],
+ [
+  2026,
+  1,
+  "Lightweight FMCW radar framework for human activity recognition under limited data conditions",
+  "Scientific Reports",
+  "10.1038/s41598-026-44815-8"
+ ],
+ [
+  2022,
+  55,
+  "Multi-View CNN-LSTM Architecture for Radar-Based Human Activity Recognition",
+  "IEEE Access",
+  "10.1109/access.2022.3150838"
+ ],
+ [
+  2020,
+  53,
+  "Human Motion Recognition With Limited Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Geoscience and Remote Sensing",
+  "10.1109/tgrs.2020.3028223"
+ ],
+ [
+  2023,
+  17,
+  "Radar\u2010based human activity recognition using denoising techniques to enhance classification accuracy",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12501"
+ ],
+ [
+  2025,
+  7,
+  "Research on Cross-Scene Human Activity Recognition Based on Radar and Wi-Fi Multimodal Fusion",
+  "Electronics",
+  "10.3390/electronics14081518"
+ ],
+ [
+  2020,
+  851,
+  "LSTM-CNN Architecture for Human Activity Recognition",
+  "IEEE Access",
+  "10.1109/access.2020.2982225"
+ ],
+ [
+  2023,
+  28,
+  "Denoising UWB Radar Data for Human Activity Recognition Using Convolutional Autoencoders",
+  "IEEE Access",
+  "10.1109/access.2023.3300224"
+ ],
+ [
+  2026,
+  0,
+  "A Lightweight STFT-Free Human Activity Recognition Framework Using IR-UWB Radar and Transfer Learning",
+  null,
+  "10.1109/cisce69494.2026.11504517"
+ ],
+ [
+  2020,
+  53,
+  "Activity Recognition in Smart Homes using UWB Radars",
+  "Procedia Computer Science",
+  "10.1016/j.procs.2020.03.004"
+ ],
+ [
+  2023,
+  90,
+  "Machine Learning for Healthcare Radars: Recent Progresses in Human Vital Sign Measurement and Activity Recognition",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2023.3334269"
+ ],
+ [
+  2025,
+  0,
+  "Comprehensive Deployment-Oriented Assessment for Cross-Environment Generalization in Deep Learning-Based mmWave Radar Sensing",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2512.13018"
+ ],
+ [
+  2024,
+  28,
+  "Human Activity Recognition Based on Deep Learning and Micro-Doppler Radar Data",
+  "Sensors",
+  "10.3390/s24082530"
+ ],
+ [
+  2023,
+  36,
+  "The Human Activity Radar Challenge: Benchmarking Based on the \u2018Radar Signatures of Human Activities\u2019 Dataset From Glasgow University",
+  "IEEE Journal of Biomedical and Health Informatics",
+  "10.1109/jbhi.2023.3240895"
+ ],
+ [
+  2026,
+  0,
+  "Efficient Radar-Based Human Activity Recognition with Spatiotemporal Factorization and Voxel-Level Augmentation",
+  "KSII Transactions on Internet and Information Systems",
+  "10.3837/tiis.2026.09.005"
+ ],
+ [
+  2025,
+  28,
+  "Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition",
+  "Sensors",
+  "10.3390/s25030724"
+ ]
+]

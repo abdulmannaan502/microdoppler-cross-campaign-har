@@ -1,0 +1,14 @@
+# Front-end configurations (model input representations).
+# gate: fixed | all | track      (range gates are defined in metres, converted with each file's bandwidth)
+# ref : max | noise | noise_f | zscore ; margin_db = CFAR-style threshold above the noise floor
+# All configurations use the same 5 s max-moving-energy window, STFT (200 ms Hann, 20 ms hop, 256 pt),
+# 128 Doppler bins (+-250 Hz) and 128 time frames.
+fixed_max:    {gate: fixed, ref: max}                  # dataset reference processing (bins 10-30 @400 MHz, 40 dB below max)
+fixed_z:      {gate: fixed, ref: zscore}               # per-image standardisation
+all_max:      {gate: all,   ref: max}
+track_max:    {gate: track, ref: max}                  # ablation: gate only
+fixed_nf6:    {gate: fixed, ref: noise_f, margin_db: 6}  # ablation: reference only
+track_noise6: {gate: track, ref: noise,   margin_db: 6}  # ablation: scalar instead of per-Doppler floor
+track_nf0:    {gate: track, ref: noise_f, margin_db: 0}
+track_nf6:    {gate: track, ref: noise_f, margin_db: 6}
+track_nf12:   {gate: track, ref: noise_f, margin_db: 12}

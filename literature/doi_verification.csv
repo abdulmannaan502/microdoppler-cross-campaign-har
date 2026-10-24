@@ -1,0 +1,33 @@
+key,doi,ok,year,title,venue,type
+shah2022portability,10.1007/s00521-022-06886-2,True,2022,Data portability for activities of daily living and fall detection in different environments using radar micro-doppler,Neural Computing and Applications,journal-article
+yang2023challenge,10.1109/JBHI.2023.3240895,True,2023,"The <i>Human Activity Radar</i> 
+                  <i>Challenge:</i> Benchmarking Based on the ‘Radar Signatures of Human Activities’ Dataset From Glasgow University",IEEE Journal of Biomedical and Health Informatics,journal-article
+gla848,10.5525/gla.researchdata.848,True,2019,Radar signatures of human activities,,dataset
+li2020uda,10.1109/RadarConf2043947.2020.9266433,True,2020,Unsupervised Domain Adaptation for Human Activity Recognition in Radar,2020 IEEE Radar Conference (RadarConf20),proceedings-article
+li2025crossenv,10.1109/BIBM66473.2025.11356872,True,2025,Radar-Based Cross-Environment Unsupervised Domain Adaptation for Human Activity Recognition,2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM),proceedings-article
+liu2024sfda,10.1109/ICASSP48485.2024.10446797,True,2024,Source-Free Domain Adaptation for Millimeter Wave Radar Based Human Activity Recognition,"ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",proceedings-article
+si2025sfda,10.1016/j.patcog.2025.111866,True,2026,Source-free domain adaptation for unsupervised radar-based human activity recognition,Pattern Recognition,journal-article
+zhou2024corruption,10.1109/TRS.2024.3398127,True,2024,Corruption Robustness Analysis of Radar Micro-Doppler Classification for Human Activity Recognition,IEEE Transactions on Radar Systems,journal-article
+ayaz2025sp,10.3390/s25030724,True,2025,Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition,Sensors,journal-article
+ayaz2026bench,10.1016/j.pmcj.2026.102198,True,2026,Benchmarking Radar Preprocessing Techniques and Transfer Learning Models for FMCW-based Human Activity Recognition,Pervasive and Mobile Computing,journal-article
+adl2023whitening,10.3390/s23177486,True,2023,Whitening-Aided Learning from Radar Micro-Doppler Signatures for Human Activity Recognition,Sensors,journal-article
+shrestha2020bilstm,10.1109/JSEN.2020.3006386,True,2020,Continuous Human Activity Classification From FMCW Radar With Bi-LSTM Networks,IEEE Sensors Journal,journal-article
+li2019survey,10.3390/rs11091068,True,2019,A Survey of Deep Learning-Based Human Activity Recognition in Radar,Remote Sensing,journal-article
+gurbuz2019spm,10.1109/MSP.2018.2890128,True,2019,Radar-Based Human-Motion Recognition With Deep Learning: Promising Applications for Indoor Monitoring,IEEE Signal Processing Magazine,journal-article
+kim2016dcnn,10.1109/LGRS.2015.2491329,True,2016,Human Detection and Activity Classification Based on Micro-Doppler Signatures Using Deep Convolutional Neural Networks,IEEE Geoscience and Remote Sensing Letters,journal-article
+chen2006microdoppler,10.1109/TAES.2006.1603402,True,2006,"Micro-doppler effect in radar: phenomenon, model, and simulation study",IEEE Transactions on Aerospace and Electronic Systems,journal-article
+li2018adabn,10.1016/j.patcog.2018.03.005,True,2018,Adaptive Batch Normalization for practical domain adaptation,Pattern Recognition,journal-article
+
+sandler2018mobilenetv2,10.1109/CVPR.2018.00474,True,2018,MobileNetV2: Inverted Residuals and Linear Bottlenecks,2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition,proceedings-article
+rohling1983cfar,10.1109/TAES.1983.309350,True,1983,Radar CFAR Thresholding in Clutter and Multiple Target Situations,IEEE Transactions on Aerospace and Electronic Systems,journal-article
+fioranelli2019health,10.1049/el.2019.2378,True,2019,Radar sensing for healthcare,Electronics Letters,journal-article
+seyfioglu2018cae,10.1109/TAES.2018.2799758,True,2018,Deep convolutional autoencoder for radar-based classification of similar aided and unaided human activities,IEEE Transactions on Aerospace and Electronic Systems,journal-article
+tanaka2025crossenv,10.48550/arXiv.2512.13018,True,2025,Comprehensive Deployment-Oriented Assessment for Cross-Environment Generalization in Deep Learning-Based mmWave Radar Sensing,,article
+nguyen2024noise,10.1371/journal.pone.0308045,True,2024,Improving human activity classification based on micro-doppler signatures of FMCW radar with the effect of noise,PLOS ONE,journal-article
+shah2019review,10.1109/MAES.2019.2933971,True,2019,RF Sensing Technologies for Assisted Daily Living in Healthcare: A Comprehensive Review,IEEE Aerospace and Electronic Systems Magazine,journal-article
+kim2009svm,10.1109/TGRS.2009.2012849,True,2009,Human Activity Classification Based on Micro-Doppler Signatures Using a Support Vector Machine,IEEE Transactions on Geoscience and Remote Sensing,journal-article
+ioffe2015bn,10.48550/arXiv.1502.03167,True,2015,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,,article
+guo2017calibration,10.48550/arXiv.1706.04599,True,2017,On Calibration of Modern Neural Networks,,article
+wang2021tent,10.48550/arXiv.2006.10726,True,2020,Tent: Fully Test-time Adaptation by Entropy Minimization,,article
+ganin2016dann,10.48550/arXiv.1505.07818,True,2015,Domain-Adversarial Training of Neural Networks,arXiv,article-journal
+he2016resnet,10.1109/CVPR.2016.90,True,2016,Deep Residual Learning for Image Recognition,2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR),proceedings-article

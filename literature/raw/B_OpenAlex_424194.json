@@ -1,0 +1,142 @@
+[
+ [
+  2024,
+  14,
+  "Improving human activity classification based on micro-doppler signatures of FMCW radar with the effect of noise",
+  "PLoS ONE",
+  "10.1371/journal.pone.0308045"
+ ],
+ [
+  2020,
+  229,
+  "Continuous Human Activity Classification From FMCW Radar With Bi-LSTM Networks",
+  "IEEE Sensors Journal",
+  "10.1109/jsen.2020.3006386"
+ ],
+ [
+  2022,
+  0,
+  "Extraction of Unaliased High-Frequency Micro-Doppler Signature using FMCW radar",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2204.09621"
+ ],
+ [
+  2022,
+  5,
+  "Multiple drone type classification using machine learning techniques based on FMCW radar micro-Doppler data",
+  null,
+  "10.1117/12.2618026"
+ ],
+ [
+  2021,
+  0,
+  "Road Users Classification Based on Bi-Frame Micro-Doppler with 24-GHz FMCW Radar",
+  "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+  "10.25781/kaust-x10n1"
+ ],
+ [
+  2020,
+  7,
+  "Range-Max Enhanced Ultra-Wideband Micro-Doppler Signatures of Behind Wall Indoor Human Activities",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2001.10449"
+ ],
+ [
+  2020,
+  53,
+  "Human Motion Recognition With Limited Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Geoscience and Remote Sensing",
+  "10.1109/tgrs.2020.3028223"
+ ],
+ [
+  2024,
+  0,
+  "FMCW Radar Principles and Human Activity Recognition Systems: Foundations, Techniques, and Applications",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2410.08483"
+ ],
+ [
+  2016,
+  43,
+  "Through Wall Radar Classification of Human Micro-Doppler Using Singular Value Decomposition Analysis",
+  "Sensors",
+  "10.3390/s16091401"
+ ],
+ [
+  2026,
+  0,
+  "Benchmarking Radar Preprocessing Techniques and Transfer Learning Models for FMCW-based Human Activity Recognition",
+  "Pervasive and Mobile Computing",
+  "10.1016/j.pmcj.2026.102198"
+ ],
+ [
+  2024,
+  1,
+  "Real-Time Lightweight Deep Learning Models for Human Activity Recognition Using FMCW Radar",
+  null,
+  "10.36227/techrxiv.171924983.35313177/v1"
+ ],
+ [
+  2024,
+  0,
+  "Real-Time Lightweight Deep Learning Models for Human Activity Recognition Using FMCW Radar",
+  null,
+  "10.36227/techrxiv.171863471.16144237/v1"
+ ],
+ [
+  2021,
+  22,
+  "Continuous Human Activity Recognition through Parallelism LSTM with Multi-Frequency Spectrograms",
+  "Remote Sensing",
+  "10.3390/rs13214264"
+ ],
+ [
+  2014,
+  4,
+  "Using Micro-Doppler Radar Signals for Human Gait Detection",
+  "SUNScholar (Stellenbosch University)",
+  ""
+ ],
+ [
+  2020,
+  0,
+  "Human Activity Recognition by L1-Norm Linear Discriminant Analysis of Radar Micro-Doppler Signatures",
+  "TUScholarShare (Temple University)",
+  ""
+ ],
+ [
+  2025,
+  25,
+  "FMCW-based contactless heart rate monitoring",
+  "Scientific Reports",
+  "10.1038/s41598-025-86438-5"
+ ],
+ [
+  2023,
+  35,
+  "Grouped People Counting Using mm-Wave FMCW MIMO Radar",
+  "IEEE Internet of Things Journal",
+  "10.1109/jiot.2023.3282797"
+ ],
+ [
+  2025,
+  0,
+  "From Range-Angle Maps to Poses: Human Skeleton Estimation from mmWave Radar FMCW Signal",
+  "Preprints.org",
+  "10.20944/preprints202506.1576.v1"
+ ],
+ [
+  2023,
+  35,
+  "A Novel Scheme of High-Precision Heart Rate Detection With a mm-Wave FMCW Radar",
+  "IEEE Access",
+  "10.1109/access.2023.3303335"
+ ],
+ [
+  2019,
+  7,
+  "FMCW radar and inertial sensing synergy for assisted living",
+  "The Journal of Engineering",
+  "10.1049/joe.2019.0558"
+ ]
+]

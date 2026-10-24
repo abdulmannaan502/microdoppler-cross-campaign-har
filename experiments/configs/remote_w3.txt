@@ -1,0 +1,12 @@
+# worker 3 (LightCNN front-end ablations)
+loco track_max lightcnn none
+loco fixed_nf6 lightcnn none
+loco all_max lightcnn none
+loco fixed_z lightcnn none
+loco track_noise6 lightcnn none
+loco track_nf0 lightcnn none
+loco track_nf12 lightcnn none
+loco fixed_max+fixed_nf6 lightcnn none
+loco fixed_max+track_max lightcnn none
+loco fixed_max+track_nf0 lightcnn none
+loco fixed_max+track_nf12 lightcnn none

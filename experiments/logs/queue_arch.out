@@ -1,0 +1,16 @@
+=== 2026-10-24 17:06:14 start loco__fixed_max__resnet18__none
+=== 2026-10-24 17:55:25 done  loco__fixed_max__resnet18__none (exit 0)
+bn                               
+ada  0.898874  0.897569  0.084186
+src  0.898898  0.897652  0.075845
+=== 2026-10-24 17:55:25 start loco__fixed_max+track_nf6__resnet18__none
+=== 2026-10-24 19:08:08 done  loco__fixed_max+track_nf6__resnet18__none (exit 0)
+bn                               
+ada  0.910880  0.910298  0.075252
+src  0.911699  0.911083  0.067387
+=== 2026-10-24 19:08:08 start loco__fixed_max__mobilenetv2__none
+=== 2026-10-24 19:52:57 done  loco__fixed_max__mobilenetv2__none (exit 0)
+[loco__fixed_max__mobilenetv2__none] seed 3  1 December 2017 Dataset: F1 src 0.913 ada 0.895 (val 0.886, ep 24, 85s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\torch\optim\lr_scheduler.py:227: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+=== 2026-10-24 19:52:57 start loco__fixed_max+track_nf6__mobilenetv2__none

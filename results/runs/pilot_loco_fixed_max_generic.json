@@ -1,0 +1,31 @@
+{
+ "tag": "pilot_loco_fixed_max_generic",
+ "args": {
+  "protocol": "loco",
+  "frontend": "fixed_max",
+  "model": "lightcnn",
+  "aug": "generic",
+  "seeds": "0",
+  "classes": 5,
+  "epochs": 40,
+  "tag": "pilot_loco_fixed_max_generic"
+ },
+ "cfg": {
+  "model": "lightcnn",
+  "epochs": 40,
+  "lr": 0.001,
+  "wd": 0.0001,
+  "batch": 32,
+  "aug": {
+   "shift": 0.1,
+   "gain": 0.15,
+   "noise": 0.05,
+   "tmask": 0.1
+  }
+ },
+ "host": "DESKTOP-7Q3RH4B",
+ "python": "3.12.0",
+ "date": "2026-10-24 17:01:57",
+ "torch": "2.6.0+cu124",
+ "cuda": "NVIDIA GeForce RTX 3050 Ti Laptop GPU"
+}

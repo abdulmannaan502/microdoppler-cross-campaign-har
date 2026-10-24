@@ -1,0 +1,11 @@
+# worker 2 (LightCNN core + protocols; TENT evaluated alongside AdaBN)
+loco fixed_max lightcnn none --tent
+loco fixed_max+track_nf6 lightcnn none --tent
+loco track_nf6 lightcnn none
+random fixed_max lightcnn none
+subject fixed_max lightcnn none
+random fixed_max+track_nf6 lightcnn none
+subject fixed_max+track_nf6 lightcnn none
+loco fixed_max lightcnn generic
+loco fixed_max lightcnn kinematic
+loco fixed_max+track_nf6 lightcnn generic

@@ -1,0 +1,27 @@
+# protocol frontend model aug    (5 seeds each; LOCO = 7 folds, random/subject = 5 folds)
+# --- core comparison (LightCNN)
+loco fixed_max lightcnn none
+loco fixed_max+track_nf6 lightcnn none
+loco track_nf6 lightcnn none
+# --- protocol inflation
+random fixed_max lightcnn none
+subject fixed_max lightcnn none
+# --- front-end ablations
+loco track_max lightcnn none
+loco fixed_nf6 lightcnn none
+loco fixed_max+fixed_nf6 lightcnn none
+loco fixed_max+track_max lightcnn none
+loco all_max lightcnn none
+loco fixed_z lightcnn none
+loco track_noise6 lightcnn none
+loco track_nf0 lightcnn none
+loco track_nf12 lightcnn none
+loco fixed_max+track_nf0 lightcnn none
+loco fixed_max+track_nf12 lightcnn none
+# --- augmentation controls
+loco fixed_max lightcnn generic
+loco fixed_max lightcnn kinematic
+loco fixed_max+track_nf6 lightcnn generic
+# --- protocol inflation for the dual representation
+random fixed_max+track_nf6 lightcnn none
+subject fixed_max+track_nf6 lightcnn none

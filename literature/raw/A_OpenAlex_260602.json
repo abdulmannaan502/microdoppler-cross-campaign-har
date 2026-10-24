@@ -1,0 +1,142 @@
+[
+ [
+  2023,
+  36,
+  "The Human Activity Radar Challenge: Benchmarking Based on the \u2018Radar Signatures of Human Activities\u2019 Dataset From Glasgow University",
+  "IEEE Journal of Biomedical and Health Informatics",
+  "10.1109/jbhi.2023.3240895"
+ ],
+ [
+  2019,
+  101,
+  "Radar sensing for healthcare",
+  "Electronics Letters",
+  "10.1049/el.2019.2378"
+ ],
+ [
+  2023,
+  96,
+  "A Survey on Radar-Based Continuous Human Activity Recognition",
+  "IEEE Journal of Microwaves",
+  "10.1109/jmw.2023.3264494"
+ ],
+ [
+  2020,
+  229,
+  "Continuous Human Activity Classification From FMCW Radar With Bi-LSTM Networks",
+  "IEEE Sensors Journal",
+  "10.1109/jsen.2020.3006386"
+ ],
+ [
+  2025,
+  1,
+  "A Novel Multi-Directional and Multi-Scenario Radar-Based Human Activity Recognition System",
+  null,
+  "10.1109/ijcnn64981.2025.11228453"
+ ],
+ [
+  2020,
+  36,
+  "Human activity classification with radar signal processing and machine learning",
+  "International Conference on UK-China Emerging Technologies (UCET)",
+  "10.1109/ucet51115.2020.9205461"
+ ],
+ [
+  2025,
+  1,
+  "Enhancing Radar-Based Human Activity Recognition: A Multi-Stream Deep Learning Approach with Advanced Signal Processing and Data Augmentation",
+  "Proceedings of IEEE Southeastcon",
+  "10.1109/southeastcon56624.2025.10971527"
+ ],
+ [
+  2025,
+  0,
+  "Comparison of Knowledge Distillation and Binarized Neural Networks for Human Activity Recognition Using Radar Data",
+  "Smart innovation, systems and technologies",
+  "10.1007/978-981-97-8764-7_22"
+ ],
+ [
+  2023,
+  45,
+  "Radar Human Activity Recognition with an Attention-Based Deep Learning Network",
+  "Sensors",
+  "10.3390/s23063185"
+ ],
+ [
+  2021,
+  17,
+  "Complex field-based fusion network for human activities classification with radar",
+  "IET conference proceedings.",
+  "10.1049/icp.2021.0572"
+ ],
+ [
+  2025,
+  0,
+  "Feasibility Study on Radar-based Human Activity Recognition",
+  "Journal of Electrical and Electronic Engineering",
+  "10.11648/j.jeee.20251304.11"
+ ],
+ [
+  2023,
+  51,
+  "Radar-based human activity recognition with adaptive thresholding towards resource constrained platforms",
+  "Scientific Reports",
+  "10.1038/s41598-023-30631-x"
+ ],
+ [
+  2026,
+  1,
+  "EViMNet: An Efficient Visual Model for Radar-Based Human Activity Recognition",
+  "IEEE Internet of Things Journal",
+  "10.1109/jiot.2026.3665757"
+ ],
+ [
+  2025,
+  11,
+  "RadSpecFusion: Dynamic attention weighting for multi-radar human activity recognition",
+  "Internet of Things",
+  "10.1016/j.iot.2025.101682"
+ ],
+ [
+  2021,
+  22,
+  "Activity recognition of FMCW radar human signatures using tower convolutional neural networks",
+  "Wireless Networks",
+  "10.1007/s11276-021-02670-7"
+ ],
+ [
+  2023,
+  36,
+  "Human Activity Recognition Method Based on FMCW Radar Sensor with Multi-Domain Feature Attention Fusion Network",
+  "Sensors",
+  "10.3390/s23115100"
+ ],
+ [
+  2025,
+  28,
+  "Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition",
+  "Sensors",
+  "10.3390/s25030724"
+ ],
+ [
+  2023,
+  21,
+  "A Comparative Study on Recent Progress of Machine Learning-Based Human Activity Recognition with Radar",
+  "Applied Sciences",
+  "10.3390/app132312728"
+ ],
+ [
+  2025,
+  8,
+  "SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity Recognition",
+  "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "10.1109/icassp49660.2025.10888271"
+ ],
+ [
+  2023,
+  7,
+  "Radar human breathing dataset for applications of ambient assisted living and search and rescue operations",
+  "Data in Brief",
+  "10.1016/j.dib.2023.109757"
+ ]
+]

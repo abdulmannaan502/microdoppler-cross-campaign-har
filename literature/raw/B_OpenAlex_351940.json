@@ -1,0 +1,142 @@
+[
+ [
+  2020,
+  110,
+  "Motion Classification Using Kinematically Sifted ACGAN-Synthesized Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2020.2969579"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924.v1"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924"
+ ],
+ [
+  2025,
+  9,
+  "Advances in Micro-Doppler Processing in Synthetic Aperture Radar: A review of techniques, results, and future trends",
+  "IEEE Geoscience and Remote Sensing Magazine",
+  "10.1109/mgrs.2025.3573099"
+ ],
+ [
+  2024,
+  0,
+  "Human motion classification by micro-doppler radar using intelligent algorithms",
+  "International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering",
+  "10.11591/ijece.v15i1.pp455-466"
+ ],
+ [
+  2026,
+  8,
+  "The mmWave Micro-Doppler Tier-0 Gate: A Deep, Broad, and Adversarially Stress-Tested Map of a Frozen Single-Token Radar Activity Classifier and Fall Monitor",
+  "Zenodo (CERN European Organization for Nuclear Research)",
+  "10.5281/zenodo.22999907"
+ ],
+ [
+  2019,
+  34,
+  "A Mutiscale Residual Attention Network for Multitask Learning of Human Activity Using Radar Micro-Doppler Signatures",
+  "Remote Sensing",
+  "10.3390/rs11212584"
+ ],
+ [
+  2010,
+  66,
+  "A Human Gait Classification Method Based on Radar Doppler Spectrograms",
+  "EURASIP Journal on Advances in Signal Processing",
+  "10.1155/2010/389716"
+ ],
+ [
+  2019,
+  1,
+  "Use of deep neural networks for classification of micro-Doppler signature from radar data",
+  "Chalmers Publication Library (Chalmers University of Technology)",
+  ""
+ ],
+ [
+  2022,
+  16,
+  "Dop-DenseNet: Densely Convolutional Neural Network-Based Gesture Recognition Using a Micro-Doppler Radar",
+  "Journal of electromagnetic engineering and science",
+  "10.26866/jees.2022.3.r.95"
+ ],
+ [
+  2020,
+  0,
+  "Human Activity Recognition by L1-Norm Linear Discriminant Analysis of Radar Micro-Doppler Signatures",
+  "TUScholarShare (Temple University)",
+  ""
+ ],
+ [
+  2018,
+  118,
+  "DNN Transfer Learning From Diversified Micro-Doppler for Motion Classification",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2018.2883847"
+ ],
+ [
+  2026,
+  1,
+  "Radar-Based Fall Detection Using Micro-Doppler Signatures: A Comparative Analysis of YOLO Architectures",
+  "Sensors",
+  "10.3390/s26092650"
+ ],
+ [
+  2021,
+  118,
+  "Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition",
+  "CHI Conference on Human Factors in Computing Systems",
+  "10.1145/3411764.3445138"
+ ],
+ [
+  2021,
+  46,
+  "Portable UWB RADAR Sensing System for Transforming Subtle Chest Movement Into Actionable Micro-Doppler Signatures to Extract Respiratory Rate Exploiting ResNet Algorithm",
+  "IEEE Sensors Journal",
+  "10.1109/jsen.2021.3110367"
+ ],
+ [
+  2020,
+  23,
+  "3D Head Motion Detection Using Millimeter-Wave Doppler Radar",
+  "IEEE Access",
+  "10.1109/access.2020.2973957"
+ ],
+ [
+  2026,
+  0,
+  "Robust Biomechanical Classification of Humans, Gorillas, and Robots under Urban Multipath Fading using Micro-Doppler Radar",
+  "Wadi Alshatti University Journal of Pure and Applied Sciences",
+  "10.63318/waujpasv4i2_20"
+ ],
+ [
+  2025,
+  1,
+  "Use of the Micro-Doppler Effect in Classifying and Differentiating Drones from Birds",
+  "Journal of Microwaves Optoelectronics and Electromagnetic Applications",
+  "10.1590/2179-10742025v24i2289901"
+ ],
+ [
+  2020,
+  11,
+  "Evaluation of Higher-Level Instrumental Activities of Daily Living via Micro-Doppler Radar Sensing of Sit-to-Stand-to-Sit Movement",
+  "IEEE Journal of Translational Engineering in Health and Medicine",
+  "10.1109/jtehm.2020.2964209"
+ ],
+ [
+  2019,
+  11,
+  "Implementation and experimental verifications of microstrip antennas for angular scanning of a Doppler radar",
+  "AEU - International Journal of Electronics and Communications",
+  "10.1016/j.aeue.2019.01.020"
+ ]
+]

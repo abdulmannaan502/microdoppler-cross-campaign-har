@@ -1,0 +1,9 @@
+a,b,bn,n,mean_diff,p
+dual-reference input (single),fixed_max (single),src,70,0.00196,0.93703
+dual-reference input (single),fixed_max (single),ada,70,0.0007,0.75421
+dual-reference input (single),fixed_max 2-seed ensemble,src,70,-0.00878,0.00126
+dual-reference input (single),fixed_max 2-seed ensemble,ada,70,-0.00445,0.01553
+late fusion fixed_max + track_nf6,fixed_max (single),src,35,0.01613,2e-05
+late fusion fixed_max + track_nf6,fixed_max (single),ada,35,0.01571,2e-05
+late fusion fixed_max + track_nf6,fixed_max 2-seed ensemble,src,35,0.00306,0.43174
+late fusion fixed_max + track_nf6,fixed_max 2-seed ensemble,ada,35,0.00597,0.02759

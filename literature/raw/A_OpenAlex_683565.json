@@ -1,0 +1,142 @@
+[
+ [
+  2025,
+  0,
+  "Radar-Based Cross-Environment Unsupervised Domain Adaptation for Human Activity Recognition",
+  "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+  "10.1109/bibm66473.2025.11356872"
+ ],
+ [
+  2022,
+  74,
+  "Deep Unsupervised Domain Adaptation with Time Series Sensor Data: A Survey",
+  "Sensors",
+  "10.3390/s22155507"
+ ],
+ [
+  2020,
+  110,
+  "Motion Classification Using Kinematically Sifted ACGAN-Synthesized Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2020.2969579"
+ ],
+ [
+  2018,
+  118,
+  "DNN Transfer Learning From Diversified Micro-Doppler for Motion Classification",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2018.2883847"
+ ],
+ [
+  2019,
+  1,
+  "Use of deep neural networks for classification of micro-Doppler signature from radar data",
+  "Chalmers Publication Library (Chalmers University of Technology)",
+  ""
+ ],
+ [
+  2020,
+  39,
+  "Improving Classification Accuracy of Hand Gesture Recognition Based on 60 GHz FMCW Radar with Deep Learning Domain Adaptation",
+  "Electronics",
+  "10.3390/electronics9122140"
+ ],
+ [
+  2021,
+  118,
+  "Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition",
+  "CHI Conference on Human Factors in Computing Systems",
+  "10.1145/3411764.3445138"
+ ],
+ [
+  2024,
+  2,
+  "A Lie Group Approach to Riemannian Batch Normalization",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2403.11261"
+ ],
+ [
+  2021,
+  165,
+  "Deep-Learning for Radar: A Survey",
+  "IEEE Access",
+  "10.1109/access.2021.3119561"
+ ],
+ [
+  2021,
+  4,
+  "Generalization of Fitness Exercise Recognition from Doppler Measurements by Domain-Adaption and Few-Shot Learning",
+  "Lecture notes in computer science",
+  "10.1007/978-3-030-68799-1_15"
+ ],
+ [
+  2023,
+  11,
+  "GaitSADA: Self-Aligned Domain Adaptation for mmWave Gait Recognition",
+  "IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)",
+  "10.1109/mass58611.2023.00034"
+ ],
+ [
+  2026,
+  0,
+  "Tremerity-Fi: Non-Contact Daily-Life Tremor Severity Assessment by Commercial mmWave Radar",
+  "IEEE/ACM International Symposium on Quality of Service (IWQoS)",
+  "10.1109/iwqos70441.2026.11661194"
+ ],
+ [
+  2023,
+  10,
+  "Deep Learning Techniques for Radar-Based Continuous Human Activity Recognition",
+  "Machine Learning and Knowledge Extraction",
+  "10.3390/make5040075"
+ ],
+ [
+  2023,
+  28,
+  "Denoising UWB Radar Data for Human Activity Recognition Using Convolutional Autoencoders",
+  "IEEE Access",
+  "10.1109/access.2023.3300224"
+ ],
+ [
+  2025,
+  11,
+  "RadSpecFusion: Dynamic attention weighting for multi-radar human activity recognition",
+  "Internet of Things",
+  "10.1016/j.iot.2025.101682"
+ ],
+ [
+  2024,
+  19,
+  "Bootstrapping Autonomous Driving Radars with Self-Supervised Learning",
+  "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+  "10.1109/cvpr52733.2024.01422"
+ ],
+ [
+  2025,
+  28,
+  "Radar Signal Processing and Its Impact on Deep Learning-Driven Human Activity Recognition",
+  "Sensors",
+  "10.3390/s25030724"
+ ],
+ [
+  2021,
+  41,
+  "Dataset of human motion status using IR-UWB through-wall radar",
+  "Journal of Systems Engineering and Electronics",
+  "10.23919/jsee.2021.000093"
+ ],
+ [
+  2025,
+  0,
+  "Contactless cardiac biometrics : open-set radar identification and radar-to-ECG reconstruction (\u672c\u6587)",
+  "KeiO Associated Repository of Academic Resources (Keio University)",
+  ""
+ ],
+ [
+  2025,
+  7,
+  "Research on Cross-Scene Human Activity Recognition Based on Radar and Wi-Fi Multimodal Fusion",
+  "Electronics",
+  "10.3390/electronics14081518"
+ ]
+]

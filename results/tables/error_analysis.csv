@@ -1,0 +1,3 @@
+group,recall_walk,recall_sit,recall_stand,recall_pick,recall_drink,pick_to_drink,drink_to_pick,val_f1,test_f1,ece
+lab,0.9974,0.9642,0.9699,0.8603,0.8819,0.1057,0.1,0.9353,0.9324,0.0446
+care,0.9153,0.9568,0.9581,0.6786,0.7923,0.2991,0.1906,0.9493,0.8601,0.0888

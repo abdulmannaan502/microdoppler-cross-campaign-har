@@ -1,0 +1,249 @@
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0  1 December 2017 Dataset: F1 src 0.606 ada 0.606 (val 0.547, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0     2 March 2017 Dataset: F1 src 0.531 ada 0.531 (val 0.626, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0      3 June 2017 Dataset: F1 src 0.482 ada 0.482 (val 0.640, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0      4 July 2018 Dataset: F1 src 0.591 ada 0.591 (val 0.617, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0 5 February 2019 UoG Dataset: F1 src 0.469 ada 0.469 (val 0.638, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0 6 February 2019 NG Homes Dataset: F1 src 0.547 ada 0.547 (val 0.616, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 0 7 March 2019 West Cumbria Dataset: F1 src 0.509 ada 0.509 (val 0.659, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1  1 December 2017 Dataset: F1 src 0.628 ada 0.628 (val 0.551, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1     2 March 2017 Dataset: F1 src 0.608 ada 0.608 (val 0.596, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1      3 June 2017 Dataset: F1 src 0.422 ada 0.422 (val 0.587, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1      4 July 2018 Dataset: F1 src 0.601 ada 0.601 (val 0.584, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1 5 February 2019 UoG Dataset: F1 src 0.468 ada 0.468 (val 0.632, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1 6 February 2019 NG Homes Dataset: F1 src 0.522 ada 0.522 (val 0.575, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 1 7 March 2019 West Cumbria Dataset: F1 src 0.478 ada 0.478 (val 0.605, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2  1 December 2017 Dataset: F1 src 0.631 ada 0.631 (val 0.581, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2     2 March 2017 Dataset: F1 src 0.637 ada 0.637 (val 0.602, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2      3 June 2017 Dataset: F1 src 0.490 ada 0.490 (val 0.627, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2      4 July 2018 Dataset: F1 src 0.547 ada 0.547 (val 0.602, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2 5 February 2019 UoG Dataset: F1 src 0.515 ada 0.515 (val 0.628, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2 6 February 2019 NG Homes Dataset: F1 src 0.507 ada 0.507 (val 0.569, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 2 7 March 2019 West Cumbria Dataset: F1 src 0.532 ada 0.532 (val 0.566, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3  1 December 2017 Dataset: F1 src 0.612 ada 0.612 (val 0.609, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3     2 March 2017 Dataset: F1 src 0.498 ada 0.498 (val 0.656, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3      3 June 2017 Dataset: F1 src 0.472 ada 0.472 (val 0.589, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3      4 July 2018 Dataset: F1 src 0.569 ada 0.569 (val 0.585, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3 5 February 2019 UoG Dataset: F1 src 0.480 ada 0.480 (val 0.667, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3 6 February 2019 NG Homes Dataset: F1 src 0.554 ada 0.554 (val 0.629, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 3 7 March 2019 West Cumbria Dataset: F1 src 0.528 ada 0.528 (val 0.626, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4  1 December 2017 Dataset: F1 src 0.639 ada 0.639 (val 0.621, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4     2 March 2017 Dataset: F1 src 0.590 ada 0.590 (val 0.626, ep -1, 10s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4      3 June 2017 Dataset: F1 src 0.455 ada 0.455 (val 0.631, ep -1, 8s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4      4 July 2018 Dataset: F1 src 0.582 ada 0.582 (val 0.553, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4 5 February 2019 UoG Dataset: F1 src 0.481 ada 0.481 (val 0.625, ep -1, 11s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4 6 February 2019 NG Homes Dataset: F1 src 0.550 ada 0.550 (val 0.597, ep -1, 9s)
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\WORK\Research 2 Blr\IEEE_RadarConf_2027_Research\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+[loco__track_nf6__svm__none] seed 4 7 March 2019 West Cumbria Dataset: F1 src 0.509 ada 0.509 (val 0.611, ep -1, 8s)
+          acc  macro_f1       ece
+bn                               
+ada  0.543514  0.538248  0.101115
+src  0.543514  0.538248  0.101115

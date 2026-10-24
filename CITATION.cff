@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite the paper."
+title: "Moving Micro-Doppler Activity Recognition to New Sites: A Leave-One-Campaign-Out Study of Low-Cost Remedies"
+authors:
+  - family-names: Sayyad
+    given-names: Abdul Mannaan
+    email: sd.abdulmannaan.31@gmail.com
+    affiliation: "Department of Computer Science and Engineering, VIT-AP University, Guntur, India"
+license: MIT
+repository-code: "https://github.com/abdulmannaan502/microdoppler-cross-campaign-har"

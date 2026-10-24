@@ -1,0 +1,142 @@
+[
+ [
+  2022,
+  35,
+  "Data portability for activities of daily living and fall detection in different environments using radar micro-doppler",
+  "Neural Computing and Applications",
+  "10.1007/s00521-022-06886-2"
+ ],
+ [
+  2026,
+  1,
+  "Lightweight FMCW radar framework for human activity recognition under limited data conditions",
+  "Scientific Reports",
+  "10.1038/s41598-026-44815-8"
+ ],
+ [
+  2025,
+  2,
+  "Development of Human Activity Recognition (HAR) for Health Rehabilitation Using MMWAVE Radar with 3D Point Cloud Data",
+  "Journal of Electronics Electromedical Engineering and Medical Informatics",
+  "10.35882/jeeemi.v7i2.642"
+ ],
+ [
+  2024,
+  0,
+  "Modeling a wireless network of sensors for Human Activity Recognition",
+  "D\u00e9p\u00f4t Institutionnel de lUniversit\u00e9 de Tlemcen",
+  ""
+ ],
+ [
+  2021,
+  4,
+  "Generalization of Fitness Exercise Recognition from Doppler Measurements by Domain-Adaption and Few-Shot Learning",
+  "Lecture notes in computer science",
+  "10.1007/978-3-030-68799-1_15"
+ ],
+ [
+  2026,
+  0,
+  "How capable are large language models at human activity recognition within a smart home?",
+  "Constellation (Universit\u00e9 du Qu\u00e9bec \u00e0 Chicoutimi)",
+  ""
+ ],
+ [
+  2023,
+  57,
+  "A perspective on human activity recognition from inertial motion data",
+  "Neural Computing and Applications",
+  "10.1007/s00521-023-08863-9"
+ ],
+ [
+  2026,
+  0,
+  "Smart Sensing Technology for Human Activity Recognition",
+  "Sensors",
+  "10.3390/s26175363"
+ ],
+ [
+  2022,
+  119,
+  "SHARP: Environment and Person Independent Activity Recognition With Commodity IEEE 802.11 Access Points",
+  "IEEE Transactions on Mobile Computing",
+  "10.1109/tmc.2022.3185681"
+ ],
+ [
+  2024,
+  0,
+  "HUMAN ACTIVITY DETECTION USING MMWAVE SENSOR",
+  "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+  "10.55041/ijsrem30541"
+ ],
+ [
+  2026,
+  0,
+  "From Inertial to Ambient: A Systematic Review of Sensor Modalities and Data Acquisition Strategies in Human Activity Recognition",
+  "Iconic Research and Engineering Journals",
+  "10.64388/irev10i2-1722556"
+ ],
+ [
+  2023,
+  3,
+  "Game Theory Solutions in Sensor-Based Human Activity Recognition: A Review",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2311.06311"
+ ],
+ [
+  2026,
+  0,
+  "WiFi-Based Human Activity Recognition and Fall Detection with Taxonomy, Benchmarks, and Future Directions: A Narrative Review",
+  "Artificial Intelligence and Applications",
+  "10.47852/bonviewaia62027517"
+ ],
+ [
+  2023,
+  18,
+  "Elderly and visually impaired indoor activity monitoring based on Wi-Fi and Deep Hybrid convolutional neural network",
+  "Scientific Reports",
+  "10.1038/s41598-023-48860-5"
+ ],
+ [
+  2023,
+  68,
+  "Human Action Recognition in Smart Living Services and Applications: Context Awareness, Data Availability, Personalization, and Privacy",
+  "Sensors",
+  "10.3390/s23136040"
+ ],
+ [
+  2024,
+  0,
+  "Advancements in Human Activity Recognition: A Comprehensive Survey of Sensor-Based and Vision-Based Approaches",
+  "Kerbala Journal for Engineering Sciences",
+  "10.63463/kjes1137"
+ ],
+ [
+  2023,
+  64,
+  "Surface Electromyography and Artificial Intelligence for Human Activity Recognition\u2014A Systematic Review on Methods, Emerging Trends Applications, Challenges, and Future Implementation",
+  "IEEE Access",
+  "10.1109/access.2023.3316509"
+ ],
+ [
+  2014,
+  0,
+  "Algorithm development and implementation of activity recognition system utilizing wearable MEMS sensors",
+  "ThinkTech (Texas Tech University)",
+  ""
+ ],
+ [
+  2026,
+  0,
+  "Tremerity-Fi: Non-Contact Daily-Life Tremor Severity Assessment by Commercial mmWave Radar",
+  "IEEE/ACM International Symposium on Quality of Service (IWQoS)",
+  "10.1109/iwqos70441.2026.11661194"
+ ],
+ [
+  2024,
+  94,
+  "A Comprehensive Overview on UWB Radar: Applications, Standards, Signal Processing Techniques, Datasets, Radio Chips, Trends and Future Research Directions",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2024.3488173"
+ ]
+]

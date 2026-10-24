@@ -1,0 +1,109 @@
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0  1 December 2017 Dataset: src 0.884 ada 0.901 (val 0.903, ep 32, 42s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0     2 March 2017 Dataset: src 0.975 ada 1.000 (val 0.913, ep 27, 46s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0      3 June 2017 Dataset: src 0.896 ada 0.910 (val 0.900, ep 28, 45s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0      4 July 2018 Dataset: src 0.917 ada 0.942 (val 0.895, ep 36, 39s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0 5 February 2019 UoG Dataset: src 0.896 ada 0.888 (val 0.947, ep 31, 38s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0 6 February 2019 NG Homes Dataset: src 0.835 ada 0.828 (val 0.924, ep 34, 38s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 0 7 March 2019 West Cumbria Dataset: src 0.841 ada 0.847 (val 0.959, ep 38, 39s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1  1 December 2017 Dataset: src 0.878 ada 0.892 (val 0.912, ep 31, 36s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1     2 March 2017 Dataset: src 0.862 ada 0.923 (val 0.889, ep 39, 42s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1      3 June 2017 Dataset: src 0.825 ada 0.809 (val 0.866, ep 17, 40s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1      4 July 2018 Dataset: src 0.933 ada 0.918 (val 0.895, ep 18, 37s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1 5 February 2019 UoG Dataset: src 0.853 ada 0.856 (val 0.890, ep 23, 36s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1 6 February 2019 NG Homes Dataset: src 0.823 ada 0.826 (val 0.920, ep 14, 35s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 1 7 March 2019 West Cumbria Dataset: src 0.799 ada 0.800 (val 0.880, ep 19, 67s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2  1 December 2017 Dataset: src 0.929 ada 0.916 (val 0.914, ep 30, 29s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2     2 March 2017 Dataset: src 0.950 ada 0.975 (val 0.904, ep 38, 33s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2      3 June 2017 Dataset: src 0.865 ada 0.833 (val 0.927, ep 20, 30s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2      4 July 2018 Dataset: src 0.891 ada 0.925 (val 0.940, ep 31, 30s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2 5 February 2019 UoG Dataset: src 0.856 ada 0.892 (val 0.917, ep 31, 29s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2 6 February 2019 NG Homes Dataset: src 0.801 ada 0.800 (val 0.923, ep 25, 28s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 2 7 March 2019 West Cumbria Dataset: src 0.841 ada 0.845 (val 0.934, ep 27, 26s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3  1 December 2017 Dataset: src 0.927 ada 0.947 (val 0.888, ep 19, 28s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3     2 March 2017 Dataset: src 0.894 ada 0.922 (val 0.876, ep 30, 32s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3      3 June 2017 Dataset: src 0.881 ada 0.844 (val 0.881, ep 20, 33s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3      4 July 2018 Dataset: src 0.938 ada 0.925 (val 0.886, ep 21, 28s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3 5 February 2019 UoG Dataset: src 0.913 ada 0.909 (val 0.900, ep 32, 30s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3 6 February 2019 NG Homes Dataset: src 0.826 ada 0.839 (val 0.908, ep 27, 29s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 3 7 March 2019 West Cumbria Dataset: src 0.807 ada 0.815 (val 0.894, ep 16, 30s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4  1 December 2017 Dataset: src 0.922 ada 0.930 (val 0.863, ep 31, 29s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4     2 March 2017 Dataset: src 0.950 ada 1.000 (val 0.917, ep 27, 38s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4      3 June 2017 Dataset: src 0.901 ada 0.854 (val 0.908, ep 31, 39s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4      4 July 2018 Dataset: src 0.905 ada 0.929 (val 0.885, ep 33, 34s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4 5 February 2019 UoG Dataset: src 0.866 ada 0.890 (val 0.932, ep 21, 36s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4 6 February 2019 NG Homes Dataset: src 0.853 ada 0.843 (val 0.886, ep 28, 33s)
+/root/proj/src/training/train.py:123: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[loco__fixed_max+track_nf6__mobilenetv2__none] seed 4 7 March 2019 West Cumbria Dataset: src 0.837 ada 0.838 (val 0.898, ep 24, 35s)
+          acc  macro_f1       ece
+bn                               
+ada  0.885858  0.886019  0.090687
+src  0.879244  0.879094  0.090280

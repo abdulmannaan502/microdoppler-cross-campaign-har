@@ -1,0 +1,142 @@
+[
+ [
+  2021,
+  37,
+  "SNR\u2010dependent drone classification using convolutional neural networks",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12161"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924.v1"
+ ],
+ [
+  2023,
+  0,
+  "Robustness Analysis of Radar Micro-Doppler Classification under Corruptions",
+  null,
+  "10.36227/techrxiv.24591924"
+ ],
+ [
+  2022,
+  9,
+  "Robustness of Deep Neural Networks for Micro-Doppler Radar Classification",
+  "International Radar Symposium",
+  "10.23919/irs54158.2022.9905017"
+ ],
+ [
+  2023,
+  36,
+  "The Human Activity Radar Challenge: Benchmarking Based on the \u2018Radar Signatures of Human Activities\u2019 Dataset From Glasgow University",
+  "IEEE Journal of Biomedical and Health Informatics",
+  "10.1109/jbhi.2023.3240895"
+ ],
+ [
+  2026,
+  0,
+  "Efficient Radar-Based Human Activity Recognition with Spatiotemporal Factorization and Voxel-Level Augmentation",
+  "KSII Transactions on Internet and Information Systems",
+  "10.3837/tiis.2026.09.005"
+ ],
+ [
+  2021,
+  57,
+  "SimHumalator: An Open-Source End-to-End Radar Simulator for Human Activity Recognition",
+  "IEEE Aerospace and Electronic Systems Magazine",
+  "10.1109/maes.2021.3138948"
+ ],
+ [
+  2023,
+  17,
+  "Radar\u2010based human activity recognition using denoising techniques to enhance classification accuracy",
+  "IET Radar Sonar & Navigation",
+  "10.1049/rsn2.12501"
+ ],
+ [
+  2024,
+  14,
+  "Human Multi-Activities Classification Using mmWave Radar: Feature Fusion in Time-Domain and PCANet",
+  "Sensors",
+  "10.3390/s24165450"
+ ],
+ [
+  2023,
+  90,
+  "Machine Learning for Healthcare Radars: Recent Progresses in Human Vital Sign Measurement and Activity Recognition",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2023.3334269"
+ ],
+ [
+  2023,
+  28,
+  "Denoising UWB Radar Data for Human Activity Recognition Using Convolutional Autoencoders",
+  "IEEE Access",
+  "10.1109/access.2023.3300224"
+ ],
+ [
+  2025,
+  1,
+  "Efficient Markerless Motion Classification Using Radar",
+  "Sensors",
+  "10.3390/s25113293"
+ ],
+ [
+  2026,
+  1,
+  "Lightweight FMCW radar framework for human activity recognition under limited data conditions",
+  "Scientific Reports",
+  "10.1038/s41598-026-44815-8"
+ ],
+ [
+  2026,
+  0,
+  "Robust Biomechanical Classification of Humans, Gorillas, and Robots under Urban Multipath Fading using Micro-Doppler Radar",
+  "Wadi Alshatti University Journal of Pure and Applied Sciences",
+  "10.63318/waujpasv4i2_20"
+ ],
+ [
+  2026,
+  2,
+  "A Robust mmWave Radar Framework for Accurate People Counting and Motion Classification",
+  "Sensors",
+  "10.3390/s26041289"
+ ],
+ [
+  2025,
+  11,
+  "RadSpecFusion: Dynamic attention weighting for multi-radar human activity recognition",
+  "Internet of Things",
+  "10.1016/j.iot.2025.101682"
+ ],
+ [
+  2021,
+  9,
+  "Classification of human body motions using an ultra-wideband pulse radar",
+  "Technology and Health Care",
+  "10.3233/thc-212827"
+ ],
+ [
+  2020,
+  110,
+  "Motion Classification Using Kinematically Sifted ACGAN-Synthesized Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Aerospace and Electronic Systems",
+  "10.1109/taes.2020.2969579"
+ ],
+ [
+  2025,
+  5,
+  "Cross-Attention Transformer for Coherent Detection in Radar Under Low-SNR Conditions",
+  "Sensors",
+  "10.3390/s25247588"
+ ],
+ [
+  2024,
+  0,
+  "Real-time human activity recognition via mmWave radar",
+  null,
+  "10.14711/thesis-991013340354703412"
+ ]
+]

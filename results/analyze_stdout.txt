@@ -1,0 +1,133 @@
+                                             tag    bn      f1   f1_sd  f1_lab  f1_care     ece  n_seeds
+0                  loco__all_max__lightcnn__none   ada  0.9128  0.0064  0.9336   0.8608  0.0619        5
+1                  loco__all_max__lightcnn__none   src  0.8978  0.0092  0.9159   0.8528  0.0697        5
+2      loco__fixed_max+fixed_nf6__lightcnn__none   ada  0.9180  0.0082  0.9413   0.8596  0.0559        5
+3      loco__fixed_max+fixed_nf6__lightcnn__none   src  0.9073  0.0148  0.9292   0.8527  0.0587        5
+4      loco__fixed_max+track_max__lightcnn__none   ada  0.9172  0.0077  0.9407   0.8582  0.0570        5
+5      loco__fixed_max+track_max__lightcnn__none   src  0.9004  0.0097  0.9208   0.8495  0.0634        5
+6      loco__fixed_max+track_nf0__lightcnn__none   ada  0.9172  0.0062  0.9372   0.8671  0.0593        5
+7      loco__fixed_max+track_nf0__lightcnn__none   src  0.9085  0.0058  0.9272   0.8618  0.0572        5
+8     loco__fixed_max+track_nf12__lightcnn__none   ada  0.9158  0.0044  0.9372   0.8622  0.0585        5
+9     loco__fixed_max+track_nf12__lightcnn__none   src  0.9124  0.0055  0.9328   0.8613  0.0599        5
+10  loco__fixed_max+track_nf6__lightcnn__generic   ada  0.9173  0.0057  0.9396   0.8616  0.0540        5
+11  loco__fixed_max+track_nf6__lightcnn__generic   src  0.9057  0.0032  0.9262   0.8544  0.0590        5
+12     loco__fixed_max+track_nf6__lightcnn__none   ada  0.9216  0.0060  0.9417   0.8714  0.0558       10
+13     loco__fixed_max+track_nf6__lightcnn__none   src  0.9137  0.0080  0.9334   0.8647  0.0592       10
+14     loco__fixed_max+track_nf6__lightcnn__none  tent  0.9235  0.0054  0.9440   0.8722  0.0565       10
+15  loco__fixed_max+track_nf6__mobilenetv2__none   ada  0.8860  0.0162  0.9091   0.8283  0.0907        5
+16  loco__fixed_max+track_nf6__mobilenetv2__none   src  0.8791  0.0157  0.9002   0.8262  0.0903        5
+17     loco__fixed_max+track_nf6__resnet18__none   ada  0.9170  0.0051  0.9400   0.8595  0.0675        5
+18     loco__fixed_max+track_nf6__resnet18__none   src  0.9110  0.0040  0.9354   0.8502  0.0729        5
+19   loco__fixed_max+track_nf6__resnet18in__none   ada  0.9193  0.0020  0.9393   0.8696  0.0657        5
+20   loco__fixed_max+track_nf6__resnet18in__none   src  0.9159  0.0064  0.9362   0.8653  0.0660        5
+21            loco__fixed_max__lightcnn__generic   ada  0.9254  0.0049  0.9474   0.8703  0.0513        5
+22            loco__fixed_max__lightcnn__generic   src  0.9195  0.0094  0.9425   0.8619  0.0541        5
+23          loco__fixed_max__lightcnn__kinematic   ada  0.9188  0.0076  0.9412   0.8629  0.0499        5
+24          loco__fixed_max__lightcnn__kinematic   src  0.9108  0.0066  0.9325   0.8567  0.0572        5
+25               loco__fixed_max__lightcnn__none   ada  0.9209  0.0050  0.9431   0.8656  0.0569       10
+26               loco__fixed_max__lightcnn__none   src  0.9118  0.0076  0.9324   0.8601  0.0572       10
+27               loco__fixed_max__lightcnn__none  tent  0.9219  0.0060  0.9442   0.8660  0.0568       10
+28            loco__fixed_max__mobilenetv2__none   ada  0.8872  0.0125  0.9071   0.8373  0.0928        5
+29            loco__fixed_max__mobilenetv2__none   src  0.8819  0.0162  0.9004   0.8354  0.0898        5
+30               loco__fixed_max__resnet18__none   ada  0.9084  0.0048  0.9289   0.8570  0.0712        5
+31               loco__fixed_max__resnet18__none   src  0.9047  0.0096  0.9294   0.8430  0.0727        5
+32             loco__fixed_max__resnet18in__none   ada  0.9244  0.0072  0.9460   0.8702  0.0626        5
+33             loco__fixed_max__resnet18in__none   src  0.9207  0.0138  0.9420   0.8672  0.0626        5
+34                     loco__fixed_max__rf__none   src  0.8319  0.0053  0.8538   0.7769  0.0867        5
+35                    loco__fixed_max__svm__none   src  0.8180  0.0055  0.8265   0.7967  0.0878        5
+36          loco__fixed_max_hann__lightcnn__none   ada  0.9160  0.0050  0.9409   0.8540  0.0566        5
+37          loco__fixed_max_hann__lightcnn__none   src  0.8986  0.0098  0.9269   0.8278  0.0650        5
+38               loco__fixed_nf6__lightcnn__none   ada  0.9095  0.0018  0.9340   0.8482  0.0587        5
+39               loco__fixed_nf6__lightcnn__none   src  0.9018  0.0056  0.9272   0.8383  0.0594        5
+40                 loco__fixed_z__lightcnn__none   ada  0.9119  0.0061  0.9360   0.8515  0.0583        5
+41                 loco__fixed_z__lightcnn__none   src  0.9065  0.0118  0.9306   0.8462  0.0623        5
+42               loco__track_max__lightcnn__none   ada  0.9115  0.0064  0.9299   0.8653  0.0616        5
+43               loco__track_max__lightcnn__none   src  0.9015  0.0069  0.9203   0.8544  0.0627        5
+44          loco__track_max_hann__lightcnn__none   ada  0.9157  0.0103  0.9348   0.8678  0.0583        5
+45          loco__track_max_hann__lightcnn__none   src  0.9015  0.0124  0.9193   0.8569  0.0618        5
+46               loco__track_nf0__lightcnn__none   ada  0.8989  0.0067  0.9200   0.8463  0.0618        5
+47               loco__track_nf0__lightcnn__none   src  0.8904  0.0052  0.9098   0.8419  0.0610        5
+48              loco__track_nf12__lightcnn__none   ada  0.9075  0.0066  0.9265   0.8600  0.0640        5
+49              loco__track_nf12__lightcnn__none   src  0.8918  0.0066  0.9115   0.8425  0.0614        5
+50               loco__track_nf6__lightcnn__none   ada  0.9026  0.0022  0.9254   0.8455  0.0639        5
+51               loco__track_nf6__lightcnn__none   src  0.8909  0.0108  0.9164   0.8272  0.0633        5
+52            loco__track_nf6__mobilenetv2__none   ada  0.8384  0.0118  0.8665   0.7683  0.1294        5
+53            loco__track_nf6__mobilenetv2__none   src  0.8300  0.0189  0.8574   0.7614  0.1245        5
+54               loco__track_nf6__resnet18__none   ada  0.8885  0.0113  0.9133   0.8266  0.0850        5
+55               loco__track_nf6__resnet18__none   src  0.8796  0.0114  0.9022   0.8233  0.0852        5
+56                     loco__track_nf6__rf__none   src  0.5654  0.0085  0.5599   0.5792  0.0856        5
+57                    loco__track_nf6__svm__none   src  0.5382  0.0089  0.5441   0.5236  0.1011        5
+58            loco__track_noise6__lightcnn__none   ada  0.9057  0.0038  0.9278   0.8506  0.0604        5
+59            loco__track_noise6__lightcnn__none   src  0.8931  0.0104  0.9113   0.8477  0.0640        5
+60   random__fixed_max+track_nf6__lightcnn__none   ada  0.9492  0.0053     NaN      NaN  0.0309        5
+61   random__fixed_max+track_nf6__lightcnn__none   src  0.9473  0.0050     NaN      NaN  0.0310        5
+62             random__fixed_max__lightcnn__none   ada  0.9486  0.0032     NaN      NaN  0.0322        5
+63             random__fixed_max__lightcnn__none   src  0.9477  0.0047     NaN      NaN  0.0298        5
+64                   random__fixed_max__rf__none   src  0.8601  0.0038     NaN      NaN  0.0696        5
+65                  random__fixed_max__svm__none   src  0.8596  0.0029     NaN      NaN  0.0479        5
+66  subject__fixed_max+track_nf6__lightcnn__none   ada  0.9305  0.0052     NaN      NaN  0.0440        5
+67  subject__fixed_max+track_nf6__lightcnn__none   src  0.9246  0.0055     NaN      NaN  0.0446        5
+68            subject__fixed_max__lightcnn__none   ada  0.9332  0.0021     NaN      NaN  0.0399        5
+69            subject__fixed_max__lightcnn__none   src  0.9291  0.0038     NaN      NaN  0.0420        5
+70                  subject__fixed_max__rf__none   src  0.8463  0.0071     NaN      NaN  0.0660        5
+71                 subject__fixed_max__svm__none   src  0.8496  0.0023     NaN      NaN  0.0462        5
+                                         mean     std
+method                            bn                 
+dual-reference 2-seed ensemble    ada  0.9282  0.0038
+                                  src  0.9233  0.0057
+dual-reference input (single)     ada  0.9216  0.0060
+                                  src  0.9137  0.0080
+fixed_max (single)                ada  0.9209  0.0050
+                                  src  0.9118  0.0076
+fixed_max 2-seed ensemble         ada  0.9261  0.0031
+                                  src  0.9225  0.0054
+late fusion fixed_max + track_nf6 ada  0.9338  0.0060
+                                  src  0.9243  0.0064
+track_nf6 2-seed ensemble         ada  0.9102  0.0027
+                                  src  0.9025  0.0122
+  group  recall_walk  recall_sit  recall_stand  recall_pick  recall_drink  pick_to_drink  drink_to_pick  val_f1  test_f1     ece
+0   lab       0.9974      0.9642        0.9699       0.8603        0.8819         0.1057         0.1000  0.9353   0.9324  0.0446
+1  care       0.9153      0.9568        0.9581       0.6786        0.7923         0.2991         0.1906  0.9493   0.8601  0.0888
+                        f1   f1_sd  f1_lab  f1_care     ece
+cond                                                       
+k0_ada              0.9162  0.0045  0.9428   0.8630  0.0588
+k0_src              0.9083  0.0042  0.9332   0.8585  0.0644
+k1_ada+full_lr1e-4  0.9061  0.0164  0.9335   0.8512  0.0651
+k1_ada+head         0.9038  0.0043  0.9346   0.8423  0.0669
+k1_ctrl             0.9015  0.0085  0.9272   0.8502  0.0643
+k1_full_lr1e-4      0.9080  0.0093  0.9437   0.8367  0.0599
+k1_full_lr3e-4      0.8804  0.0159  0.9124   0.8162  0.0785
+k1_head             0.9049  0.0047  0.9345   0.8455  0.0605
+k1_selected         0.9049  0.0091  0.9341   0.8464  0.0621
+k2_ada+full_lr1e-4  0.9096  0.0082  0.9380   0.8529  0.0578
+k2_ada+head         0.9074  0.0066  0.9383   0.8458  0.0605
+k2_ctrl             0.8992  0.0143  0.9236   0.8505  0.0684
+k2_full_lr1e-4      0.9135  0.0122  0.9422   0.8561  0.0566
+k2_full_lr3e-4      0.8978  0.0128  0.9306   0.8321  0.0657
+k2_head             0.9091  0.0046  0.9385   0.8502  0.0586
+k2_selected         0.9071  0.0123  0.9361   0.8491  0.0605
+k3_ada+full_lr1e-4  0.9245  0.0029  0.9543   0.8649  0.0523
+k3_ada+head         0.9128  0.0067  0.9428   0.8528  0.0576
+k3_ctrl             0.9049  0.0125  0.9295   0.8557  0.0645
+k3_full_lr1e-4      0.9231  0.0048  0.9538   0.8615  0.0534
+k3_full_lr3e-4      0.9027  0.0160  0.9269   0.8542  0.0625
+k3_head             0.9147  0.0068  0.9443   0.8556  0.0558
+k3_selected         0.9152  0.0076  0.9453   0.8551  0.0546
+             a        b   n  mean_diff   ci_lo   ci_hi       p  folds_improved  n_folds  p_holm
+0  k1_selected   k0_src  30    -0.0035 -0.0100  0.0034  0.4643               2        6  1.0000
+1  k1_selected   k0_ada  30    -0.0113 -0.0188 -0.0041  0.0066               1        6  0.0596
+2  k1_selected  k1_ctrl  30     0.0033 -0.0086  0.0185  0.7611               2        6  1.0000
+3  k2_selected   k0_src  30    -0.0012 -0.0100  0.0076  0.7493               2        6  1.0000
+4  k2_selected   k0_ada  30    -0.0091 -0.0132 -0.0049  0.2667               0        6  1.0000
+5  k2_selected  k2_ctrl  30     0.0079 -0.0004  0.0188  0.4225               4        6  1.0000
+6  k3_selected   k0_src  30     0.0069 -0.0000  0.0138  0.2082               5        6  1.0000
+7  k3_selected   k0_ada  30    -0.0010 -0.0063  0.0045  0.7266               2        6  1.0000
+8  k3_selected  k3_ctrl  30     0.0103  0.0034  0.0168  0.0250               5        6  0.1997
+selected
+full_lr1e-4        9
+none               8
+head               6
+ada+full_lr1e-4    3
+full_lr3e-4        2
+ada+head           2
+Name: count, dtype: int64

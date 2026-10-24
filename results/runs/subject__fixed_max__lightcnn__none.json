@@ -1,0 +1,29 @@
+{
+ "tag": "subject__fixed_max__lightcnn__none",
+ "args": {
+  "protocol": "subject",
+  "frontend": "fixed_max",
+  "model": "lightcnn",
+  "aug": "none",
+  "seeds": "0,1,2,3,4",
+  "classes": 5,
+  "epochs": 40,
+  "tag": "",
+  "tent": false,
+  "max_folds": 0
+ },
+ "cfg": {
+  "model": "lightcnn",
+  "epochs": 40,
+  "lr": 0.001,
+  "wd": 0.0001,
+  "batch": 32,
+  "aug": null,
+  "tent": false
+ },
+ "host": "6aabbb6643e2",
+ "python": "3.12.15",
+ "date": "2026-10-24 15:42:10",
+ "torch": "2.14.1+cu132",
+ "cuda": "NVIDIA GeForce RTX 4090"
+}

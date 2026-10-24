@@ -1,0 +1,5 @@
+# worker 1
+enroll fixed_max lightcnn
+loco fixed_max mobilenetv2 none
+loco fixed_max+track_nf6 mobilenetv2 none
+loco track_nf6 mobilenetv2 none

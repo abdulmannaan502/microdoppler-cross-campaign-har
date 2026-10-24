@@ -1,0 +1,142 @@
+[
+ [
+  2023,
+  96,
+  "A Survey on Radar-Based Continuous Human Activity Recognition",
+  "IEEE Journal of Microwaves",
+  "10.1109/jmw.2023.3264494"
+ ],
+ [
+  2026,
+  0,
+  "Robust Continuous Human Activity Recognition Using Deep Learning and Distributed Radar Sensors",
+  "arXiv (Cornell University)",
+  "10.48550/arxiv.2609.10419"
+ ],
+ [
+  2022,
+  13,
+  "Filtering Data Bins of UWB Radars for Activity Recognition with Random Forest",
+  "Procedia Computer Science",
+  "10.1016/j.procs.2022.03.009"
+ ],
+ [
+  2023,
+  90,
+  "Machine Learning for Healthcare Radars: Recent Progresses in Human Vital Sign Measurement and Activity Recognition",
+  "IEEE Communications Surveys & Tutorials",
+  "10.1109/comst.2023.3334269"
+ ],
+ [
+  2026,
+  0,
+  "Domain-Map Selection and Decision-Level Fusion for Lightweight FMCW Multi-Radar Human Activity Recognition",
+  "IEEE Access",
+  "10.1109/access.2026.3718182"
+ ],
+ [
+  2021,
+  47,
+  "Ultra-Wideband Radar-Based Activity Recognition Using Deep Learning",
+  "IEEE Access",
+  "10.1109/access.2021.3117667"
+ ],
+ [
+  2024,
+  12,
+  "Passive Radar Sensing for Human Activity Recognition: A Survey",
+  "IEEE Open Journal of Engineering in Medicine and Biology",
+  "10.1109/ojemb.2024.3420747"
+ ],
+ [
+  2023,
+  76,
+  "AI-Powered Noncontact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing",
+  "IEEE Internet of Things Journal",
+  "10.1109/jiot.2023.3235268"
+ ],
+ [
+  2023,
+  28,
+  "Denoising UWB Radar Data for Human Activity Recognition Using Convolutional Autoencoders",
+  "IEEE Access",
+  "10.1109/access.2023.3300224"
+ ],
+ [
+  2023,
+  34,
+  "Driving Activity Recognition Using UWB Radar and Deep Neural Networks",
+  "Sensors",
+  "10.3390/s23020818"
+ ],
+ [
+  2024,
+  28,
+  "Human Activity Recognition Based on Deep Learning and Micro-Doppler Radar Data",
+  "Sensors",
+  "10.3390/s24082530"
+ ],
+ [
+  2023,
+  17,
+  "Point Transformer-Based Human Activity Recognition Using High-Dimensional Radar Point Clouds",
+  "Proceedings of the IEEE National Radar Conference",
+  "10.1109/radarconf2351548.2023.10149679"
+ ],
+ [
+  2026,
+  1,
+  "Lightweight FMCW radar framework for human activity recognition under limited data conditions",
+  "Scientific Reports",
+  "10.1038/s41598-026-44815-8"
+ ],
+ [
+  2019,
+  110,
+  "Multi-Sensor Fusion for Activity Recognition\u2014A Survey",
+  "Sensors",
+  "10.3390/s19173808"
+ ],
+ [
+  2020,
+  53,
+  "Human Motion Recognition With Limited Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Geoscience and Remote Sensing",
+  "10.1109/tgrs.2020.3028223"
+ ],
+ [
+  2023,
+  1,
+  "Continuous People Crowd Monitoring defined as a Regression Problem using Radar Networks",
+  "European Radar Conference (EuRAD)",
+  "10.23919/eurad58043.2023.10289622"
+ ],
+ [
+  2020,
+  229,
+  "Continuous Human Activity Classification From FMCW Radar With Bi-LSTM Networks",
+  "IEEE Sensors Journal",
+  "10.1109/jsen.2020.3006386"
+ ],
+ [
+  2024,
+  2,
+  "Generating Synthetic Augmentation Data from a Practical UWB Radar Dataset Using VQ-VAE",
+  null,
+  "10.1145/3677525.3678663"
+ ],
+ [
+  2023,
+  5,
+  "Memory-Efficient High-Accuracy Food Intake Activity Recognition with 3D mmWave Radars",
+  null,
+  "10.1145/3607828.3617791"
+ ],
+ [
+  2023,
+  9,
+  "Whitening-Aided Learning from Radar Micro-Doppler Signatures for Human Activity Recognition",
+  "Sensors",
+  "10.3390/s23177486"
+ ]
+]

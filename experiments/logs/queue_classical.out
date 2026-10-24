@@ -1,0 +1,40 @@
+=== 2026-10-24 17:04:05 start loco__fixed_max__svm__none
+=== 2026-10-24 17:08:59 done  loco__fixed_max__svm__none (exit 0)
+bn                              
+ada  0.818345  0.818018  0.08784
+src  0.818345  0.818018  0.08784
+=== 2026-10-24 17:08:59 start loco__fixed_max__rf__none
+=== 2026-10-24 17:15:15 done  loco__fixed_max__rf__none (exit 0)
+bn                               
+ada  0.833079  0.831866  0.086669
+src  0.833079  0.831866  0.086669
+=== 2026-10-24 17:15:15 start loco__track_nf6__svm__none
+=== 2026-10-24 17:20:46 done  loco__track_nf6__svm__none (exit 0)
+bn                               
+ada  0.543514  0.538248  0.101115
+src  0.543514  0.538248  0.101115
+=== 2026-10-24 17:20:46 start loco__track_nf6__rf__none
+=== 2026-10-24 17:27:04 done  loco__track_nf6__rf__none (exit 0)
+bn                              
+ada  0.573395  0.565421  0.08559
+src  0.573395  0.565421  0.08559
+=== 2026-10-24 17:27:04 start random__fixed_max__svm__none
+=== 2026-10-24 17:30:44 done  random__fixed_max__svm__none (exit 0)
+bn                               
+ada  0.858817   0.85958  0.047857
+src  0.858817   0.85958  0.047857
+=== 2026-10-24 17:30:44 start subject__fixed_max__svm__none
+=== 2026-10-24 17:34:19 done  subject__fixed_max__svm__none (exit 0)
+bn                               
+ada  0.848749  0.849644  0.046166
+src  0.848749  0.849644  0.046166
+=== 2026-10-24 17:34:20 start random__fixed_max__rf__none
+=== 2026-10-24 17:38:44 done  random__fixed_max__rf__none (exit 0)
+bn                               
+ada  0.860485  0.860124  0.069577
+src  0.860485  0.860124  0.069577
+=== 2026-10-24 17:38:44 start subject__fixed_max__rf__none
+=== 2026-10-24 17:43:11 done  subject__fixed_max__rf__none (exit 0)
+bn                               
+ada  0.846575  0.846338  0.065953
+src  0.846575  0.846338  0.065953

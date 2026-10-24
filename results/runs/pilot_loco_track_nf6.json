@@ -1,0 +1,26 @@
+{
+ "tag": "pilot_loco_track_nf6",
+ "args": {
+  "protocol": "loco",
+  "frontend": "track_nf6",
+  "model": "lightcnn",
+  "aug": "none",
+  "seeds": "0",
+  "classes": 5,
+  "epochs": 40,
+  "tag": "pilot_loco_track_nf6"
+ },
+ "cfg": {
+  "model": "lightcnn",
+  "epochs": 40,
+  "lr": 0.001,
+  "wd": 0.0001,
+  "batch": 32,
+  "aug": null
+ },
+ "host": "DESKTOP-7Q3RH4B",
+ "python": "3.12.0",
+ "date": "2026-10-24 16:46:57",
+ "torch": "2.6.0+cu124",
+ "cuda": "NVIDIA GeForce RTX 3050 Ti Laptop GPU"
+}

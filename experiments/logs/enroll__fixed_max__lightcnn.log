@@ -1,0 +1,64 @@
+[enroll__fixed_max__lightcnn] seed 0 1 December 2017 Dataset  sel=none            k0_src=0.937 k0_ada=0.941 k1_selected=0.937 k1_ctrl=0.908 k2_selected=0.937 k2_ctrl=0.924 k3_selected=0.937 k3_ctrl=0.924
+[enroll__fixed_max__lightcnn] seed 0 3 June 2017 Dataset      sel=full_lr1e-4     k0_src=0.966 k0_ada=0.967 k1_selected=0.978 k1_ctrl=0.966 k2_selected=0.978 k2_ctrl=0.966 k3_selected=0.978 k3_ctrl=0.978
+[enroll__fixed_max__lightcnn] seed 0 4 July 2018 Dataset      sel=full_lr1e-4     k0_src=0.954 k0_ada=0.949 k1_selected=0.964 k1_ctrl=0.938 k2_selected=0.959 k2_ctrl=0.949 k3_selected=0.964 k3_ctrl=0.949
+[enroll__fixed_max__lightcnn] seed 0 5 February 2019 UoG Data sel=full_lr3e-4     k0_src=0.870 k0_ada=0.915 k1_selected=0.904 k1_ctrl=0.891 k2_selected=0.943 k2_ctrl=0.779 k3_selected=0.910 k3_ctrl=0.849
+[enroll__fixed_max__lightcnn] seed 0 6 February 2019 NG Homes sel=full_lr1e-4     k0_src=0.839 k0_ada=0.859 k1_selected=0.836 k1_ctrl=0.852 k2_selected=0.853 k2_ctrl=0.853 k3_selected=0.870 k3_ctrl=0.869
+[enroll__fixed_max__lightcnn] seed 0 7 March 2019 West Cumbri sel=none            k0_src=0.866 k0_ada=0.863 k1_selected=0.866 k1_ctrl=0.863 k2_selected=0.866 k2_ctrl=0.863 k3_selected=0.866 k3_ctrl=0.859
+[enroll__fixed_max__lightcnn] seed 1 1 December 2017 Dataset  sel=full_lr1e-4     k0_src=0.953 k0_ada=0.953 k1_selected=0.957 k1_ctrl=0.965 k2_selected=0.972 k2_ctrl=0.969 k3_selected=0.969 k3_ctrl=0.957
+[enroll__fixed_max__lightcnn] seed 1 3 June 2017 Dataset      sel=none            k0_src=0.900 k0_ada=0.967 k1_selected=0.900 k1_ctrl=0.956 k2_selected=0.900 k2_ctrl=0.956 k3_selected=0.900 k3_ctrl=0.967
+[enroll__fixed_max__lightcnn] seed 1 4 July 2018 Dataset      sel=none            k0_src=0.954 k0_ada=0.954 k1_selected=0.954 k1_ctrl=0.954 k2_selected=0.954 k2_ctrl=0.938 k3_selected=0.954 k3_ctrl=0.938
+[enroll__fixed_max__lightcnn] seed 1 5 February 2019 UoG Data sel=full_lr1e-4     k0_src=0.929 k0_ada=0.924 k1_selected=0.906 k1_ctrl=0.910 k2_selected=0.919 k2_ctrl=0.914 k3_selected=0.929 k3_ctrl=0.925
+[enroll__fixed_max__lightcnn] seed 1 6 February 2019 NG Homes sel=full_lr1e-4     k0_src=0.878 k0_ada=0.878 k1_selected=0.856 k1_ctrl=0.854 k2_selected=0.901 k2_ctrl=0.864 k3_selected=0.874 k3_ctrl=0.861
+[enroll__fixed_max__lightcnn] seed 1 7 March 2019 West Cumbri sel=head            k0_src=0.872 k0_ada=0.860 k1_selected=0.855 k1_ctrl=0.847 k2_selected=0.856 k2_ctrl=0.868 k3_selected=0.846 k3_ctrl=0.858
+[enroll__fixed_max__lightcnn] seed 2 1 December 2017 Dataset  sel=none            k0_src=0.949 k0_ada=0.945 k1_selected=0.949 k1_ctrl=0.930 k2_selected=0.949 k2_ctrl=0.926 k3_selected=0.949 k3_ctrl=0.930
+[enroll__fixed_max__lightcnn] seed 2 3 June 2017 Dataset      sel=full_lr3e-4     k0_src=0.966 k0_ada=0.944 k1_selected=0.883 k1_ctrl=0.907 k2_selected=0.955 k2_ctrl=0.954 k3_selected=0.989 k3_ctrl=0.966
+[enroll__fixed_max__lightcnn] seed 2 4 July 2018 Dataset      sel=none            k0_src=0.908 k0_ada=0.923 k1_selected=0.908 k1_ctrl=0.897 k2_selected=0.908 k2_ctrl=0.908 k3_selected=0.908 k3_ctrl=0.902
+[enroll__fixed_max__lightcnn] seed 2 5 February 2019 UoG Data sel=none            k0_src=0.924 k0_ada=0.943 k1_selected=0.924 k1_ctrl=0.939 k2_selected=0.924 k2_ctrl=0.904 k3_selected=0.924 k3_ctrl=0.906
+[enroll__fixed_max__lightcnn] seed 2 6 February 2019 NG Homes sel=head            k0_src=0.871 k0_ada=0.874 k1_selected=0.854 k1_ctrl=0.865 k2_selected=0.879 k2_ctrl=0.860 k3_selected=0.853 k3_ctrl=0.871
+[enroll__fixed_max__lightcnn] seed 2 7 March 2019 West Cumbri sel=full_lr1e-4     k0_src=0.838 k0_ada=0.838 k1_selected=0.823 k1_ctrl=0.846 k2_selected=0.782 k2_ctrl=0.789 k3_selected=0.836 k3_ctrl=0.849
+[enroll__fixed_max__lightcnn] seed 3 1 December 2017 Dataset  sel=full_lr1e-4     k0_src=0.929 k0_ada=0.949 k1_selected=0.957 k1_ctrl=0.832 k2_selected=0.844 k2_ctrl=0.906 k3_selected=0.969 k3_ctrl=0.934
+[enroll__fixed_max__lightcnn] seed 3 3 June 2017 Dataset      sel=ada+full_lr1e-4 k0_src=0.920 k0_ada=0.944 k1_selected=0.945 k1_ctrl=0.967 k2_selected=0.956 k2_ctrl=0.978 k3_selected=0.978 k3_ctrl=0.955
+[enroll__fixed_max__lightcnn] seed 3 4 July 2018 Dataset      sel=head            k0_src=0.948 k0_ada=0.964 k1_selected=0.943 k1_ctrl=0.926 k2_selected=0.943 k2_ctrl=0.942 k3_selected=0.948 k3_ctrl=0.958
+[enroll__fixed_max__lightcnn] seed 3 5 February 2019 UoG Data sel=ada+full_lr1e-4 k0_src=0.933 k0_ada=0.910 k1_selected=0.934 k1_ctrl=0.929 k2_selected=0.906 k2_ctrl=0.924 k3_selected=0.929 k3_ctrl=0.910
+[enroll__fixed_max__lightcnn] seed 3 6 February 2019 NG Homes sel=ada+head        k0_src=0.878 k0_ada=0.897 k1_selected=0.828 k1_ctrl=0.867 k2_selected=0.861 k2_ctrl=0.888 k3_selected=0.871 k3_ctrl=0.893
+[enroll__fixed_max__lightcnn] seed 3 7 March 2019 West Cumbri sel=head            k0_src=0.850 k0_ada=0.847 k1_selected=0.837 k1_ctrl=0.828 k2_selected=0.850 k2_ctrl=0.829 k3_selected=0.859 k3_ctrl=0.829
+[enroll__fixed_max__lightcnn] seed 4 1 December 2017 Dataset  sel=ada+full_lr1e-4 k0_src=0.933 k0_ada=0.933 k1_selected=0.925 k1_ctrl=0.907 k2_selected=0.949 k2_ctrl=0.936 k3_selected=0.948 k3_ctrl=0.916
+[enroll__fixed_max__lightcnn] seed 4 3 June 2017 Dataset      sel=none            k0_src=0.966 k0_ada=0.966 k1_selected=0.966 k1_ctrl=0.966 k2_selected=0.966 k2_ctrl=0.851 k3_selected=0.966 k3_ctrl=0.865
+[enroll__fixed_max__lightcnn] seed 4 4 July 2018 Dataset      sel=full_lr1e-4     k0_src=0.959 k0_ada=0.949 k1_selected=0.944 k1_ctrl=0.944 k2_selected=0.949 k2_ctrl=0.924 k3_selected=0.959 k3_ctrl=0.929
+[enroll__fixed_max__lightcnn] seed 4 5 February 2019 UoG Data sel=ada+head        k0_src=0.868 k0_ada=0.917 k1_selected=0.908 k1_ctrl=0.911 k2_selected=0.913 k2_ctrl=0.923 k3_selected=0.900 k3_ctrl=0.932
+[enroll__fixed_max__lightcnn] seed 4 6 February 2019 NG Homes sel=head            k0_src=0.855 k0_ada=0.870 k1_selected=0.877 k1_ctrl=0.831 k2_selected=0.828 k2_ctrl=0.854 k3_selected=0.854 k3_ctrl=0.847
+[enroll__fixed_max__lightcnn] seed 4 7 March 2019 West Cumbri sel=head            k0_src=0.837 k0_ada=0.842 k1_selected=0.832 k1_ctrl=0.849 k2_selected=0.815 k2_ctrl=0.837 k3_selected=0.822 k3_ctrl=0.821
+                    macro_f1     acc     ece
+cond                                        
+k0_ada                0.9162  0.9163  0.0588
+k0_src                0.9083  0.9088  0.0644
+k1_ada+full_lr1e-4    0.9061  0.9070  0.0651
+k1_ada+head           0.9038  0.9045  0.0669
+k1_ctrl               0.9015  0.9029  0.0643
+k1_full_lr1e-4        0.9080  0.9081  0.0599
+k1_full_lr3e-4        0.8804  0.8848  0.0785
+k1_head               0.9049  0.9054  0.0605
+k1_selected           0.9049  0.9051  0.0621
+k2_ada+full_lr1e-4    0.9096  0.9104  0.0578
+k2_ada+head           0.9074  0.9079  0.0605
+k2_ctrl               0.8992  0.9005  0.0684
+k2_full_lr1e-4        0.9135  0.9147  0.0566
+k2_full_lr3e-4        0.8978  0.9007  0.0657
+k2_head               0.9091  0.9094  0.0586
+k2_selected           0.9071  0.9082  0.0605
+k3_ada+full_lr1e-4    0.9245  0.9249  0.0523
+k3_ada+head           0.9128  0.9128  0.0576
+k3_ctrl               0.9049  0.9054  0.0645
+k3_full_lr1e-4        0.9231  0.9237  0.0534
+k3_full_lr3e-4        0.9027  0.9060  0.0625
+k3_head               0.9147  0.9147  0.0558
+k3_selected           0.9152  0.9155  0.0546
+selected
+full_lr1e-4        9
+none               8
+head               6
+ada+full_lr1e-4    3
+full_lr3e-4        2
+ada+head           2
+Name: count, dtype: int64
+done in 1612s

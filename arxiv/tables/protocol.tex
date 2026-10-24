@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Macro-F1 under the three protocols (mean over five seeds; s.d.\ in units of $10^{-3}$ in parentheses). LOCO is also split into laboratory and care-site test campaigns.}
+\label{tab:protocol}
+\setlength{\tabcolsep}{2.5pt}
+\footnotesize
+\begin{tabular}{lccccc}
+\toprule
+ & & & & \multicolumn{2}{c}{LOCO split} \\
+Model & Random & Subject & LOCO & lab & care \\
+\midrule
+SVM (features) & 0.860\,(3) & 0.850\,(2) & 0.818\,(6) & 0.827 & 0.797 \\
+RF (features) & 0.860\,(4) & 0.846\,(7) & 0.832\,(5) & 0.854 & 0.777 \\
+LightCNN & 0.948\,(5) & 0.929\,(4) & 0.912\,(8) & 0.932 & 0.860 \\
+LightCNN, dual-ref. & 0.947\,(5) & 0.925\,(6) & 0.914\,(8) & 0.933 & 0.865 \\
+\bottomrule
+\end{tabular}
+\end{table}

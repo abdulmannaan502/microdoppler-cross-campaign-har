@@ -1,0 +1,43 @@
+\begin{table}[t]
+\centering
+\caption{LOCO macro-F1 of each intervention (LightCNN unless stated; five seeds). $\Delta$: paired difference to the baseline with 95\,\% campaign-bootstrap CI; $p$: Holm-corrected Wilcoxon test over 35 (campaign, seed) pairs.}
+\label{tab:interventions}
+\setlength{\tabcolsep}{1.8pt}
+\scriptsize
+\begin{tabular}{lccccc}
+\toprule
+Condition & F1 & $\Delta$ [95\,\% CI] & $p$ & care & ECE \\
+\midrule
+\multicolumn{6}{l}{\emph{Reference}} \\
+\quad fixed gate, max-ref. (baseline) & 0.912 & -- & -- & 0.860 & 0.057 \\
+\multicolumn{6}{l}{\emph{Front-end}} \\
+\quad tracking gate, max-ref. & 0.901 & -.007 [-.026,+.006] & 1.000 & 0.854 & 0.063 \\
+\quad all range cells, max-ref. & 0.898 & -.010 [-.031,+.002] & 1.000 & 0.853 & 0.070 \\
+\quad fixed gate, z-score & 0.907 & -.002 [-.019,+.019] & 1.000 & 0.846 & 0.062 \\
+\quad fixed gate, noise-ref. ($\alpha$=6) & 0.902 & -.006 [-.019,+.007] & 1.000 & 0.838 & 0.059 \\
+\quad tracking, noise-ref. $\alpha$=0 & 0.890 & -.018 [-.038,+.001] & 0.664 & 0.842 & 0.061 \\
+\quad tracking, noise-ref. $\alpha$=6 & 0.891 & -.017 [-.035,+.003] & 0.278 & 0.827 & 0.063 \\
+\quad tracking, noise-ref. $\alpha$=12 & 0.892 & -.016 [-.031,-.004] & 0.194 & 0.842 & 0.061 \\
+\quad tracking, scalar noise-ref. & 0.893 & -.015 [-.035,+.003] & 1.000 & 0.848 & 0.064 \\
+\multicolumn{6}{l}{\emph{Dual-reference input}} \\
+\quad max + noise-ref. ($\alpha$=6) & 0.914 & +.002 [-.007,+.011] & 1.000 & 0.865 & 0.059 \\
+\quad max + noise-ref. ($\alpha$=0) & 0.908 & +.000 [-.015,+.016] & 1.000 & 0.862 & 0.057 \\
+\quad max + noise-ref. ($\alpha$=12) & 0.912 & +.004 [-.004,+.012] & 1.000 & 0.861 & 0.060 \\
+\quad max + fixed-gate noise-ref. & 0.907 & -.001 [-.020,+.015] & 1.000 & 0.853 & 0.059 \\
+\quad max + tracking max-ref. & 0.900 & -.008 [-.034,+.012] & 1.000 & 0.849 & 0.063 \\
+\multicolumn{6}{l}{\emph{Training / adaptation}} \\
+\quad generic augmentation & 0.919 & +.011 [-.000,+.022] & 1.000 & 0.862 & 0.054 \\
+\quad kinematic augmentation & 0.911 & +.003 [-.010,+.016] & 1.000 & 0.857 & 0.057 \\
+\quad AdaBN & 0.921 & +.009 [+.003,+.017] & 0.087 & 0.866 & 0.057 \\
+\quad TENT & 0.922 & +.010 [+.004,+.017] & 0.003 & 0.866 & 0.057 \\
+\quad dual-ref. + AdaBN & 0.922 & +.010 [-.001,+.021] & 0.324 & 0.871 & 0.056 \\
+\multicolumn{6}{l}{\emph{Architecture}} \\
+\quad ResNet-18 & 0.905 & -.003 [-.012,+.005] & 1.000 & 0.843 & 0.073 \\
+\quad ResNet-18, dual-ref. & 0.911 & +.003 [-.003,+.009] & 1.000 & 0.850 & 0.073 \\
+\quad MobileNetV2 & 0.882 & -.026 [-.038,-.017] & 0.002 & 0.835 & 0.090 \\
+\quad MobileNetV2, dual-ref. & 0.879 & -.029 [-.044,-.012] & 0.007 & 0.826 & 0.090 \\
+\quad ResNet-18, ImageNet init. & 0.921 & +.013 [+.002,+.024] & 0.256 & 0.867 & 0.063 \\
+\quad ResNet-18 IN-init., dual-ref. & 0.916 & +.008 [-.003,+.019] & 1.000 & 0.865 & 0.066 \\
+\bottomrule
+\end{tabular}
+\end{table}

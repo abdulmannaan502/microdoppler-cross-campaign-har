@@ -1,0 +1,9 @@
+# hand-crafted micro-Doppler features (Shah et al. 2022 family) + SVM / RF
+loco fixed_max svm none
+loco fixed_max rf none
+loco track_nf6 svm none
+loco track_nf6 rf none
+random fixed_max svm none
+subject fixed_max svm none
+random fixed_max rf none
+subject fixed_max rf none

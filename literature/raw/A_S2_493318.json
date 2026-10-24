@@ -1,0 +1,142 @@
+[
+ [
+  2021,
+  103,
+  "Semisupervised Human Activity Recognition With Radar Micro-Doppler Signatures",
+  "IEEE Transactions on Geoscience and Remote Sensing",
+  "10.1109/TGRS.2021.3090106"
+ ],
+ [
+  2021,
+  2,
+  "Few-shot Human Activity Recognition with Radar Micro-Doppler Spectrograms",
+  "Radar",
+  "10.1109/Radar53847.2021.10028058"
+ ],
+ [
+  2020,
+  13,
+  "Unsupervised Domain Adaptation for Human Activity Recognition in Radar",
+  "International Radar Conference",
+  "10.1109/RadarConf2043947.2020.9266433"
+ ],
+ [
+  2024,
+  14,
+  "A micro-Doppler spectrogram denoising algorithm for radar human activity recognition",
+  "Signal Processing",
+  "10.1016/j.sigpro.2024.109505"
+ ],
+ [
+  2026,
+  0,
+  "Suppressing Dynamic Interference in Radar Human Activity Recognition via Frequency-Aware Multi-Channel Micro-Doppler",
+  "Signal Processing",
+  "10.1016/j.sigpro.2026.110967"
+ ],
+ [
+  2024,
+  6,
+  "Text2Doppler: Generating Radar Micro\u2013Doppler Signatures for Human Activity Recognition via Textual Descriptions",
+  "IEEE Sensors Letters",
+  "10.1109/LSENS.2024.3457169"
+ ],
+ [
+  2025,
+  9,
+  "RadMamba: Efficient Human Activity Recognition Through a Radar-Based Micro-Doppler-Oriented Mamba State-Space Model",
+  "IEEE Transactions on Radar Systems",
+  "10.1109/TRS.2025.3648848"
+ ],
+ [
+  2025,
+  12,
+  "Human Activity Recognition Trained on Simulated Millimeter-Wave Radar Data With Domain Adaptation",
+  "IEEE Transactions on Instrumentation and Measurement",
+  "10.1109/TIM.2025.3558216"
+ ],
+ [
+  2024,
+  32,
+  "Human Activity Recognition Based on Deep Learning and Micro-Doppler Radar Data",
+  "Italian National Conference on Sensors",
+  "10.3390/s24082530"
+ ],
+ [
+  2025,
+  14,
+  "Source-free domain adaptation for unsupervised radar-based human activity recognition",
+  "Pattern Recognition",
+  "10.1016/j.patcog.2025.111866"
+ ],
+ [
+  2026,
+  0,
+  "Multi-Target Activity Recognition With UWB MIMO Radar Using Image-Domain Micro-Doppler Features and RWANet",
+  "IEEE Transactions on Mobile Computing",
+  "10.1109/TMC.2026.3682370"
+ ],
+ [
+  2026,
+  0,
+  "DIHARNet: A Temporal-Doppler-Spatial Domain Fusion Method for Direction Insensitive Human Activity Recognition Based on mmWave Radar",
+  "IEEE Transactions on Mobile Computing",
+  "10.1109/TMC.2026.3720254"
+ ],
+ [
+  2025,
+  0,
+  "Human Activity Recognition Using SVM-based on micro-Doppler Radar Data Classification",
+  "WiPiEC Journal",
+  "10.64552/wipiec.v11i1.92"
+ ],
+ [
+  2025,
+  0,
+  "Filterbank-Based Micro-Doppler Spectrogram Transformation for Human Activity Recognition",
+  "International Conference on Information Networking",
+  "10.1109/ICOIN63865.2025.10992785"
+ ],
+ [
+  2025,
+  1,
+  "Radar-Based Cross-Environment Unsupervised Domain Adaptation for Human Activity Recognition",
+  "IEEE International Conference on Bioinformatics and Biomedicine",
+  "10.1109/BIBM66473.2025.11356872"
+ ],
+ [
+  2024,
+  10,
+  "Corruption Robustness Analysis of Radar Micro-Doppler Classification for Human Activity Recognition",
+  "IEEE Transactions on Radar Systems",
+  "10.1109/TRS.2024.3398127"
+ ],
+ [
+  2024,
+  3,
+  "Few-shot generative adversarial network for radar micro-doppler spectrogram synthesis with application to human activity recognition",
+  "International Conference on Digital Image Processing",
+  "10.1117/12.3038540"
+ ],
+ [
+  2026,
+  0,
+  "TriPath-WGAN-GP for radar-based human activity recognition via micro-Doppler spectrogram augmentation",
+  "Multimedia tools and applications",
+  "10.1007/s11042-026-21934-y"
+ ],
+ [
+  2026,
+  0,
+  "RepHARNet: Human Activity Recognition Based on Radar Micro-Doppler Signatures Through Reparameterization",
+  "Electronics",
+  "10.3390/electronics15122729"
+ ],
+ [
+  2024,
+  8,
+  "Source-Free Domain Adaptation for Millimeter Wave Radar Based Human Activity Recognition",
+  "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+  "10.1109/ICASSP48485.2024.10446797"
+ ]
+]

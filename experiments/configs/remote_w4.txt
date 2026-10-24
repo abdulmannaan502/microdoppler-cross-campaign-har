@@ -1,0 +1,3 @@
+# worker 4: range-window check (Hann vs rectangular)
+loco fixed_max_hann lightcnn none
+loco track_max_hann lightcnn none

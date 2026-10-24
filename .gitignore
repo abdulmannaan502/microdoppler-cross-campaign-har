@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/raw/
+data/cache/
+remote_bundle.tgz
+remote_results.tgz
+remote/torch_home/
+*.aux
+*.log
+!experiments/logs/*.log
+*.out
+!experiments/logs/*.out
+*.fls
+*.fdb_latexmk
+*.blg
+arxiv/main.pdf
